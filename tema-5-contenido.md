@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
-> **Fecha**: 2026-06-20
+> **Versión**: 1.1 — Correcciones de María (IAM) aplicadas
+> **Fecha**: 2026-06-23
 > **Fuentes**: Ver `tema-5-fuentes.md` · **Diagramas**: Ver `tema-5-diagramas.md` · **Cambios**: Ver `tema-5-changelog.md`
 
 ---
@@ -283,13 +283,20 @@ Las AAPP establecen la **jornada general y las especiales** de su personal. El *
 
 ### 9.2 Permisos (art. 48)
 
-Los funcionarios tendrán los siguientes permisos, entre otros:
+Los funcionarios tendrán, entre otros, los permisos del art. 48. Los **días por fallecimiento, accidente o enfermedad grave** según el **grado de parentesco** se confunden mucho en examen, por lo que conviene fijarlos en tabla:
 
-- Por **fallecimiento, accidente o enfermedad grave** de un familiar: **3 días hábiles** (misma localidad) o **5 días** (distinta localidad) en primer grado; 2 o 4 días en segundo grado.
-- Por **traslado de domicilio** sin cambio de residencia: **1 día**.
-- Para concurrir a **exámenes finales** y pruebas de aptitud: los días de su celebración.
-- Por **lactancia** de un hijo menor de doce meses: **1 hora** de ausencia (acumulable).
-- Por **asuntos particulares** ("moscosos"): los días que fije la normativa (con carácter general, **6 días** al año).
+| Permiso | Supuesto | Duración |
+|---|---|---|
+| Fallecimiento, accidente, enfermedad grave, hospitalización o intervención quirúrgica de familiar de **1.er grado** | Misma localidad | **3 días hábiles** |
+| Ídem — familiar de **1.er grado** | Distinta localidad | **5 días hábiles** |
+| Ídem — familiar de **2.º grado** | Misma localidad | **2 días hábiles** |
+| Ídem — familiar de **2.º grado** | Distinta localidad | **4 días hábiles** |
+| **Traslado de domicilio** | Sin cambio de residencia | **1 día** |
+| **Exámenes finales** y pruebas de aptitud | Día de celebración | Los días de su celebración |
+| **Lactancia** de hijo menor de 12 meses | Ausencia diaria (acumulable) | **1 hora** |
+| **Asuntos particulares** ("moscosos") | A lo largo del año | Los que fije la normativa (**con carácter general, 6 días**) |
+
+> **[DATO CLAVE EXAMEN]** Regla mnemotécnica del art. 48.a): familiar de **1.er grado → 3 días** (misma localidad) / **5 días** (distinta); familiar de **2.º grado → 2 días** / **4 días**. [TREBEP, art. 48.a)]
 
 ### 9.3 Permisos por conciliación, corresponsabilidad y violencia de género (art. 49)
 
@@ -303,7 +310,27 @@ Los funcionarios tendrán los siguientes permisos, entre otros:
 
 > **[DATO CLAVE EXAMEN]** Las vacaciones anuales retribuidas son de **22 días hábiles** (o los días que correspondan proporcionalmente si el tiempo de servicio es menor de un año). A efectos de vacaciones, los **sábados no se consideran hábiles**, salvo que la normativa específica disponga otra cosa. [TREBEP, art. 50]
 
-> **[EJEMPLO AYTO MADRID]** El Acuerdo-Convenio del Ayuntamiento de Madrid puede mejorar estos mínimos (p. ej. días adicionales por antigüedad), pero **nunca por debajo** de los mínimos del TREBEP. [REFERENCIA CRUZADA: Tema 9 — Acuerdo-Convenio del Ayuntamiento de Madrid]
+### 9.5 El Acuerdo-Convenio del Ayuntamiento de Madrid (aplicable al IAM)
+
+> **[EJEMPLO AYTO MADRID]** Para una plaza del **IAM**, el **Acuerdo-Convenio sobre condiciones de trabajo del personal funcionario y laboral del Ayuntamiento de Madrid y sus Organismos Autónomos** es **normativa directamente aplicable**: mejora los mínimos del TREBEP (nunca a la baja). Estos son los datos vigentes más preguntados.
+
+**Vacaciones (art. 14 del Acuerdo-Convenio): 22 días hábiles + adicionales por antigüedad**
+
+| Antigüedad en la Administración | Días hábiles adicionales |
+|---|---|
+| 15 años de servicio | **+1** |
+| 20 años de servicio | **+2** |
+| 25 años de servicio | **+3** |
+| 30 o más años de servicio | **+4** |
+
+**Asuntos particulares (art. 15 del Acuerdo-Convenio): 6 días al año + adicionales por antigüedad**
+
+- **+2 días** desde el cumplimiento del **sexto trienio** (18 años de servicio).
+- **+1 día adicional** por cada **trienio** cumplido **a partir del octavo**.
+
+> **[DATO CLAVE EXAMEN]** Para el IAM: vacaciones **22 días hábiles** + escala de antigüedad (15/20/25/30 años → +1/+2/+3/+4 días) y **6 días** de asuntos particulares (+2 desde el 6.º trienio, +1 por trienio desde el 8.º). El TREBEP es el suelo; el Acuerdo-Convenio mejora, nunca empeora. [TREBEP, arts. 48-50; Acuerdo-Convenio Ayto. Madrid, arts. 14-15]
+
+> **[REFERENCIA CRUZADA]** La negociación colectiva, la representación del personal municipal y el propio **Acuerdo-Convenio** se estudian en profundidad en el **Tema 9**. Los datos anteriores son **volátiles**: reverificar el Acuerdo-Convenio vigente antes de cada convocatoria.
 
 ---
 
@@ -368,14 +395,16 @@ Las faltas se clasifican en **muy graves, graves y leves**. Son **muy graves** (
 
 ### 12.3 Sanciones (art. 96)
 
-| Sanción | Aplicable a | Observaciones |
-|---|---|---|
-| **Separación del servicio** | Funcionarios | Solo por **falta muy grave**; a los interinos = revocación del nombramiento |
-| **Despido disciplinario** | Personal laboral | Solo por falta muy grave |
-| **Suspensión** firme de funciones o de empleo y sueldo | Ambos | Máximo **6 años** |
-| **Traslado forzoso** | Funcionarios | Con o sin cambio de localidad |
-| **Demérito** | Ambos | Penalización en carrera, promoción o movilidad |
-| **Apercibimiento** | Ambos | La más leve |
+| Sanción | Falta que la origina | Aplicable a | Observaciones |
+|---|---|---|---|
+| **Separación del servicio** | **Muy grave** (únicamente) | Funcionarios | A los interinos = revocación del nombramiento [art. 96.2] |
+| **Despido disciplinario** | **Muy grave** (únicamente) | Personal laboral | Inhabilita para nuevo contrato similar |
+| **Suspensión** firme de funciones o de empleo y sueldo | Muy grave o grave* | Ambos | Máximo **6 años** |
+| **Traslado forzoso** | Muy grave o grave* | Funcionarios | Con o sin cambio de localidad |
+| **Demérito** | Muy grave o grave* | Ambos | Penalización en carrera, promoción o movilidad |
+| **Apercibimiento** | **Leve** | Ambos | La más leve |
+
+> \*La correspondencia de la suspensión, el traslado forzoso y el demérito con cada tipo de falta la concretan las **leyes de Función Pública** de desarrollo; el TREBEP solo reserva **expresamente** la **separación del servicio** y el **despido** a las **faltas muy graves** (art. 96.2), y el apercibimiento se reserva a las leves.
 
 ### 12.4 Prescripción (art. 97)
 
@@ -385,9 +414,9 @@ El **procedimiento disciplinario** (art. 98) se establece reglamentariamente, co
 
 ---
 
-## 13. (Complementario) Régimen de incompatibilidades
+## 13. Régimen de incompatibilidades (Ley 53/1984)
 
-> **Nota de alcance**: epígrafe **no exigido** literalmente por el enunciado oficial del Tema 5, pero incluido en el material del cliente y conexo con los deberes. Se conserva como complemento, pendiente de confirmación.
+> **Nota de alcance**: aunque el enunciado oficial del Tema 5 no la cite de forma literal, la **Ley 53/1984** de incompatibilidades es **materia habitual** en este tipo de oposiciones y está directamente conectada con los deberes del empleado público (su incumplimiento es falta muy grave, art. 95.2.n). Por ello se incluye como **contenido firme** del tema.
 
 La **Ley 53/1984, de 26 de diciembre**, parte del principio de **dedicación a un solo puesto de trabajo** en el sector público. El desempeño de un segundo puesto o actividad pública solo se admite en los supuestos tasados (funciones docente y sanitaria, o por razón de interés público acordado por el Consejo de Ministros u órgano de gobierno autonómico).
 

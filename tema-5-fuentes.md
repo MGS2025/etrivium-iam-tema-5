@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
-> **Fecha**: 2026-06-20
+> **Versión**: 1.1 — Correcciones de María (IAM) aplicadas
+> **Fecha**: 2026-06-23
 
 ---
 
@@ -18,7 +18,8 @@ El Tema 5 trabaja con un **corpus normativo cerrado**: el articulado del **texto
   - **Jornada de trabajo, permisos y vacaciones** (arts. 47-51 TREBEP) — ausente en el PDF (solo el teletrabajo, art. 47 bis).
   - **Negociación colectiva, representación y participación institucional** (arts. 31-46 TREBEP) — solo citada, sin desarrollar.
 - Estos tres bloques se **han completado a partir del texto oficial del TREBEP (BOE)**, conforme a la decisión de tratamiento de fuentes "PDF cliente + contraste BOE".
-- El PDF **añade** un epígrafe de **régimen de incompatibilidades** (Ley 53/1984) que **no figura** en el enunciado oficial del Tema 5; se conserva como **sección complementaria marcada** (materia conexa y muy preguntada), pendiente de confirmación por el cliente.
+- El PDF **añade** un epígrafe de **régimen de incompatibilidades** (Ley 53/1984) que **no figura** literalmente en el enunciado oficial del Tema 5; tras la revisión de María (IAM) se **consolida como contenido firme** del tema, por ser materia conexa con los deberes y habitual en este tipo de oposiciones.
+- A petición de María se incorpora el **Acuerdo-Convenio sobre condiciones de trabajo del personal funcionario y laboral del Ayuntamiento de Madrid y sus Organismos Autónomos** como normativa **directamente aplicable al IAM** en materia de jornada, permisos y vacaciones (datos vigentes tomados del portal de transparencia del Ayuntamiento de Madrid).
 
 ---
 
@@ -27,7 +28,8 @@ El Tema 5 trabaja con un **corpus normativo cerrado**: el articulado del **texto
 | Ref | Título | Publicación / origen | Uso |
 |---|---|---|---|
 | [TREBEP] | Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido de la Ley del Estatuto Básico del Empleado Público | BOE núm. 261 de 31/10/2015 (versión consolidada) | **Fuente nuclear**: arts. 1-98 (clases de personal, acceso y pérdida, situaciones, derechos, carrera, evaluación, retribuciones, jornada/permisos, negociación, deberes, disciplinario) |
-| [L53/1984] | Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas | BOE núm. 4 de 04/01/1985 | Sección complementaria de incompatibilidades |
+| [L53/1984] | Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas | BOE núm. 4 de 04/01/1985 | Sección de incompatibilidades (§13) |
+| [AC-MADRID] | Acuerdo-Convenio sobre condiciones de trabajo del personal funcionario y laboral del Ayuntamiento de Madrid y sus Organismos Autónomos | Portal de transparencia del Ayuntamiento de Madrid (transparencia.madrid.es) | Vacaciones (art. 14) y asuntos particulares (art. 15) aplicables al IAM (§9.5) |
 | [CE] | Constitución Española de 1978 | BOE núm. 311 de 29/12/1978 | Arts. 23.2 y 103.3 (acceso por igualdad, mérito y capacidad); art. 28 (libertad sindical y huelga) |
 | [LCREM] | Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid | BOE núm. 182 de 01/08/2006 | Encuadre del personal del Ayuntamiento de Madrid |
 

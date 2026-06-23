@@ -2,8 +2,8 @@
 
 > **Título oficial**: El personal al servicio de la Administración Pública conforme al TREBEP (RDL 5/2015).
 >
-> **Versión**: 1.0
-> **Fecha**: 2026-06-20
+> **Versión**: 1.1 — ajuste visual (D5, D10, D12) tras revisión de María
+> **Fecha**: 2026-06-23
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
 
@@ -224,7 +224,7 @@
   <rect x="574" y="90" width="110" height="80" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="629" y="116" class="t" style="font-weight:700">Suspensión</text>
   <text x="629" y="134" class="t" style="font-weight:700">de funciones</text>
-  <text x="629" y="156" class="s">pierde puesto >6 m.</text>
+  <text x="629" y="156" class="s" style="font-size:9.5px">pierde puesto si >6 m.</text>
   <rect x="120" y="210" width="460" height="44" rx="6" fill="#f4f6f9" stroke="#0055a0"/>
   <text x="350" y="237" class="s" style="font-weight:700;fill:#0055a0">El reingreso al servicio activo se regula en el art. 91</text>
 </svg>
@@ -425,8 +425,8 @@
   <text x="603" y="122" class="s">art. 50</text>
   <text x="603" y="156" class="t" style="font-weight:700;fill:#b5740f">22 días hábiles</text>
   <text x="603" y="178" class="s">(o proporcional)</text>
-  <rect x="120" y="216" width="460" height="38" rx="6" fill="#f4f6f9" stroke="#0055a0"/>
-  <text x="350" y="240" class="s" style="font-weight:700;fill:#0055a0">El Acuerdo-Convenio del Ayto. de Madrid puede mejorar, nunca empeorar, estos mínimos</text>
+  <rect x="40" y="216" width="620" height="38" rx="6" fill="#f4f6f9" stroke="#0055a0"/>
+  <text x="350" y="240" class="s" style="font-weight:700;fill:#0055a0;font-size:10px">El Acuerdo-Convenio del Ayto. de Madrid puede mejorar, nunca empeorar, estos mínimos</text>
 </svg>
 ```
 
@@ -494,53 +494,54 @@
 **Propósito**: Visión global del personal al servicio de la AP según el TREBEP.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="Mapa resumen del Tema 5: el TREBEP regula clases de personal, acceso y pérdida, situaciones administrativas, derechos, carrera, retribuciones, jornada y permisos, negociación, deberes y régimen disciplinario">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Mapa resumen del Tema 5: el TREBEP regula clases de personal, acceso y pérdida, situaciones administrativas, derechos, carrera, retribuciones, jornada y permisos, negociación, deberes y régimen disciplinario">
   <style>
-    .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
-    .t{font:11px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
+    .h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
+    .t{font:700 11px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
+    .s{font:9.5px system-ui,sans-serif;fill:#555;text-anchor:middle}
   </style>
-  <rect x="270" y="140" width="180" height="56" rx="10" fill="#003d75"/>
-  <text x="360" y="164" class="h">TREBEP</text>
-  <text x="360" y="182" class="h" style="font-weight:400;font-size:11px">RDL 5/2015</text>
-  <rect x="20" y="24" width="170" height="46" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="105" y="44" class="t" style="font-weight:700">Clases de personal</text>
-  <text x="105" y="61" class="t">carrera/interino/laboral/eventual</text>
-  <rect x="275" y="24" width="170" height="46" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="360" y="44" class="t" style="font-weight:700">Acceso y pérdida</text>
-  <text x="360" y="61" class="t">igualdad·mérito·capacidad</text>
-  <rect x="530" y="24" width="170" height="46" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="615" y="44" class="t" style="font-weight:700">Situaciones</text>
-  <text x="615" y="61" class="t">activo·excedencia·suspensión</text>
-  <rect x="20" y="90" width="170" height="46" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="105" y="110" class="t" style="font-weight:700">Derechos</text>
-  <text x="105" y="127" class="t">individuales (14) / colectivos (15)</text>
-  <rect x="530" y="90" width="170" height="46" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="615" y="110" class="t" style="font-weight:700">Carrera + evaluación</text>
-  <text x="615" y="127" class="t">horizontal/vertical · prom. interna</text>
-  <rect x="20" y="200" width="170" height="46" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="105" y="220" class="t" style="font-weight:700">Retribuciones</text>
-  <text x="105" y="237" class="t">básicas / complementarias</text>
-  <rect x="530" y="200" width="170" height="46" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="615" y="220" class="t" style="font-weight:700">Jornada/permisos</text>
-  <text x="615" y="237" class="t">vacaciones 22 días</text>
-  <rect x="20" y="266" width="170" height="46" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="105" y="286" class="t" style="font-weight:700">Negociación</text>
-  <text x="105" y="303" class="t">mesas · delegados/juntas</text>
-  <rect x="275" y="266" width="170" height="46" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="360" y="286" class="t" style="font-weight:700">Deberes</text>
-  <text x="360" y="303" class="t">código de conducta (53/54)</text>
-  <rect x="530" y="266" width="170" height="46" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
-  <text x="615" y="286" class="t" style="font-weight:700">Disciplinario</text>
-  <text x="615" y="303" class="t">faltas·sanciones·prescripción</text>
-  <line x1="270" y1="168" x2="190" y2="60" stroke="#cdd6e0"/>
-  <line x1="360" y1="140" x2="360" y2="70" stroke="#cdd6e0"/>
-  <line x1="450" y1="168" x2="530" y2="60" stroke="#cdd6e0"/>
-  <line x1="270" y1="160" x2="190" y2="113" stroke="#cdd6e0"/>
-  <line x1="450" y1="160" x2="530" y2="113" stroke="#cdd6e0"/>
-  <line x1="270" y1="180" x2="190" y2="223" stroke="#cdd6e0"/>
-  <line x1="450" y1="180" x2="530" y2="223" stroke="#cdd6e0"/>
-  <line x1="300" y1="196" x2="190" y2="289" stroke="#cdd6e0"/>
-  <line x1="360" y1="196" x2="360" y2="266" stroke="#cdd6e0"/>
-  <line x1="420" y1="196" x2="530" y2="289" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="122" y2="46" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="380" y2="46" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="638" y2="46" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="122" y2="112" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="638" y2="112" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="122" y2="256" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="638" y2="256" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="122" y2="322" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="380" y2="322" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="638" y2="322" stroke="#cdd6e0"/>
+  <rect x="305" y="152" width="150" height="58" rx="10" fill="#003d75"/>
+  <text x="380" y="178" class="h">TREBEP</text>
+  <text x="380" y="196" class="h" style="font-weight:400;font-size:11px">RDL 5/2015</text>
+  <rect x="15" y="20" width="215" height="52" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="122" y="42" class="t">Clases de personal</text>
+  <text x="122" y="59" class="s">carrera/interino/laboral/eventual</text>
+  <rect x="272" y="20" width="216" height="52" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="380" y="42" class="t">Acceso y pérdida</text>
+  <text x="380" y="59" class="s">igualdad · mérito · capacidad</text>
+  <rect x="530" y="20" width="215" height="52" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="638" y="42" class="t">Situaciones</text>
+  <text x="638" y="59" class="s">activo · excedencia · suspensión</text>
+  <rect x="15" y="86" width="215" height="52" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="122" y="108" class="t">Derechos</text>
+  <text x="122" y="125" class="s">individuales (14) / colectivos (15)</text>
+  <rect x="530" y="86" width="215" height="52" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="638" y="108" class="t">Carrera + evaluación</text>
+  <text x="638" y="125" class="s">horizontal/vertical · prom. interna</text>
+  <rect x="15" y="230" width="215" height="52" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="122" y="252" class="t">Retribuciones</text>
+  <text x="122" y="269" class="s">básicas / complementarias</text>
+  <rect x="530" y="230" width="215" height="52" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="638" y="252" class="t">Jornada / permisos</text>
+  <text x="638" y="269" class="s">vacaciones 22 días</text>
+  <rect x="15" y="296" width="215" height="52" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="122" y="318" class="t">Negociación</text>
+  <text x="122" y="335" class="s">mesas · delegados / juntas</text>
+  <rect x="272" y="296" width="216" height="52" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="380" y="318" class="t">Deberes</text>
+  <text x="380" y="335" class="s">código de conducta (53/54)</text>
+  <rect x="530" y="296" width="215" height="52" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
+  <text x="638" y="318" class="t">Disciplinario</text>
+  <text x="638" y="335" class="s">faltas · sanciones · prescripción</text>
 </svg>
 ```

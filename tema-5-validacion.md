@@ -1,8 +1,8 @@
 # Tema 5 — Checklist de Validación
 
 > **Título oficial**: El personal al servicio de la Administración Pública conforme al TREBEP (RDL 5/2015): clases de personal, adquisición y pérdida, situaciones administrativas, derechos, carrera, evaluación, retribuciones, jornada/permisos/vacaciones y régimen disciplinario.
-> **Versión**: 1.0
-> **Fecha**: 2026-06-20
+> **Versión**: 1.1 — Correcciones de María (IAM) aplicadas
+> **Fecha**: 2026-06-23
 > **Revisoras**: María + Ana (IAM)
 
 ---
@@ -91,13 +91,20 @@
 
 ## Observaciones generales
 
+### Correcciones de María aplicadas en v1.1
+
+1. **Diagramas reajustados** (D5, D10 y, sobre todo, D12 "mapa-resumen"): se eliminó el desbordamiento de texto fuera de las cajas; verificado por render antes de publicar.
+2. **§13 Incompatibilidades consolidada**: se retira la etiqueta "pendiente de confirmación"; la Ley 53/1984 pasa a ser contenido firme del tema.
+3. **Tabla de sanciones (§12.3)**: añadida la columna **"Falta que la origina"** para relacionar cada sanción con el tipo de falta.
+4. **Permisos (§9.2)**: la lista del art. 48 se convierte en **tabla**, con los días por **grado de parentesco** destacados (1.er grado 3/5 · 2.º grado 2/4).
+5. **Acuerdo-Convenio del Ayto. de Madrid (§9.5, nuevo)**: añadida nota + referencia cruzada al Tema 9 **y** mini-tabla con datos reales aplicables al IAM (vacaciones por antigüedad y asuntos particulares).
+
 ### Decisiones conscientes que conviene confirmar
 
-1. **El PDF del cliente es del INSST (ámbito estatal), no de Madrid**, y **omite tres epígrafes** del enunciado oficial del Tema 5: (a) adquisición y pérdida de la relación de servicio, (b) jornada/permisos/vacaciones, y (c) negociación colectiva, representación y participación. **Se han completado desde el texto oficial del TREBEP (BOE)**. → Confirmar que el alcance es el correcto.
-2. **El PDF añade un epígrafe de incompatibilidades (Ley 53/1984)** que **no figura** en el enunciado oficial del Tema 5. Se ha conservado como **sección complementaria marcada** (§13). → Confirmar si se mantiene o se retira.
-3. **Corrección detectada en el PDF**: situaba los "principios éticos" y los "principios de conducta" **ambos en el art. 53**. Lo correcto es **principios éticos = art. 53** y **principios de conducta = art. 54**. Se ha corregido.
-4. **150 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 7 pestañas (+ pestaña Índice)**, replicando el formato de los Temas 1-4. Se ha **añadido la pestaña Índice** atendiendo al feedback de Jesús sobre el Tema 13.
-5. **Balanceo automático A/B/C** mediante permutación determinista en `build_t5.py`.
+1. **El PDF del cliente es del INSST (ámbito estatal), no de Madrid**, y **omitía tres epígrafes** del enunciado oficial del Tema 5: (a) adquisición y pérdida de la relación de servicio, (b) jornada/permisos/vacaciones, y (c) negociación colectiva, representación y participación. **Se han completado desde el texto oficial del TREBEP (BOE)**. → Confirmar que el alcance es el correcto.
+2. **Corrección detectada en el PDF**: situaba los "principios éticos" y los "principios de conducta" **ambos en el art. 53**. Lo correcto es **principios éticos = art. 53** y **principios de conducta = art. 54**. Se ha corregido.
+3. **150 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas (con pestaña Índice)**, replicando el formato de los Temas 1-4 + la mejora de Índice del Tema 13.
+4. **Balanceo automático A/B/C** mediante permutación determinista en `build_t5.py`.
 
 ### Puntos a vigilar (datos volátiles)
 

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tema 5 — Informe de correcciones v1.1 | ETRIVIUM IAM</title>
+<style>
+  :root{--azul:#0055a0;--azul-dark:#003d75;--rojo:#d13c3c;--verde:#2d8659;--naranja:#e89822;--gris:#5b6b7c;}
+  *{box-sizing:border-box}
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#1a1a1a;line-height:1.55;max-width:900px;margin:0 auto;padding:32px 22px 80px;background:#fff}
+  header{border-bottom:3px solid var(--azul);padding-bottom:16px;margin-bottom:8px}
+  h1{color:var(--azul-dark);font-size:24px;margin:0 0 4px}
+  .sub{color:#5b6b7c;font-size:14px}
+  .badge{display:inline-block;background:var(--azul);color:#fff;font-size:12px;font-weight:700;padding:3px 10px;border-radius:20px;vertical-align:middle}
+  h2{color:var(--azul-dark);font-size:18px;margin-top:34px;border-left:4px solid var(--azul);padding-left:10px}
+  table{border-collapse:collapse;width:100%;margin:14px 0;font-size:14px}
+  th,td{border:1px solid #d6dee6;padding:8px 10px;text-align:left;vertical-align:top}
+  th{background:#eaf1f8;color:var(--azul-dark)}
+  .ok{color:var(--verde);font-weight:700}
+  .box{border:1px solid #d6dee6;border-radius:8px;padding:14px 16px;margin:14px 0;background:#f7fafd}
+  .box.warn{background:#fff5e6;border-color:var(--naranja)}
+  .pill{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:12px;background:#eaf1f8;color:var(--azul-dark);margin-right:6px}
+  ul{margin:8px 0 8px 0;padding-left:22px}
+  li{margin:4px 0}
+  a{color:var(--azul)}
+  footer{margin-top:40px;border-top:1px solid #d6dee6;padding-top:14px;color:#5b6b7c;font-size:13px}
+  code{background:#eef2f6;padding:1px 5px;border-radius:4px;font-size:13px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Tema 5 — Informe de correcciones <span class="badge">v1.1</span></h1>
+  <div class="sub">El personal al servicio de la Administración Pública (TREBEP, RDL 5/2015) · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 23/06/2026</div>
+</header>
+
+<div class="box">
+  Este documento recoge los cambios aplicados sobre la versión v1.0 a partir de la revisión de <strong>María (IAM)</strong>.
+  Web del tema: <a href="https://mgs2025.github.io/etrivium-iam-tema-5/">mgs2025.github.io/etrivium-iam-tema-5</a>
+</div>
+
+<h2>Resumen de cambios</h2>
+<table>
+  <thead><tr><th>#</th><th>Apreciación de María</th><th>Acción aplicada</th><th>Estado</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Varios diagramas estaban visualmente descuadrados.</td>
+      <td>Rediseñado el diagrama <strong>D12</strong> (mapa-resumen) y ajustados <strong>D10</strong> y <strong>D5</strong>. Revisados los 12 diagramas con verificación por render para garantizar que ningún texto se sale de su caja.</td>
+      <td class="ok">Hecho</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>El epígrafe 13 (incompatibilidades) figuraba como "pendiente de confirmación"; la Ley 53/1984 sí suele entrar.</td>
+      <td>Se retira esa etiqueta y la <strong>Ley 53/1984</strong> se consolida como <strong>contenido firme</strong> del tema (§13).</td>
+      <td class="ok">Hecho</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>En la tabla de sanciones faltaba relacionar cada sanción con la falta que la origina.</td>
+      <td>Añadida la columna <strong>"Falta que la origina"</strong> en la tabla de sanciones (§12.3).</td>
+      <td class="ok">Hecho</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>El apartado 9.2 de permisos debería llevar una tabla (los plazos por grado de parentesco se confunden).</td>
+      <td>La lista del art. 48 se convierte en <strong>tabla</strong> con los días por grado de parentesco destacados (§9.2).</td>
+      <td class="ok">Hecho</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Vacaciones y permisos pueden estar mejorados por el Acuerdo-Convenio del Ayto. de Madrid (aplicable al IAM).</td>
+      <td>Nuevo apartado <strong>§9.5</strong>: nota + referencia cruzada al Tema 9 <em>y</em> mini-tabla con datos reales del Acuerdo-Convenio aplicables al IAM.</td>
+      <td class="ok">Hecho</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Detalle de los cambios</h2>
+
+<h3>1 · Diagramas</h3>
+<p>El descuadre principal estaba en el <strong>D12 (mapa-resumen)</strong>: los subtítulos eran más anchos que sus cajas y se salían. Se ha rediseñado con cajas más anchas y subtítulos a menor tamaño. También se han ajustado el <strong>D10</strong> (caja del Acuerdo-Convenio) y el <strong>D5</strong> (texto "pierde puesto si >6 m." de la última caja). Todos los diagramas se han comprobado renderizándolos uno a uno.</p>
+
+<h3>2 · Incompatibilidades (§13)</h3>
+<p>Antes: "epígrafe no exigido literalmente… pendiente de confirmación". Ahora: nota de alcance que aclara que, aunque el enunciado oficial no la cite de forma literal, la <strong>Ley 53/1984</strong> es materia habitual y conexa con los deberes (su incumplimiento es falta muy grave, art. 95.2.n), por lo que se incluye como contenido firme.</p>
+
+<h3>3 · Tabla de sanciones (§12.3)</h3>
+<p>Se añade la columna <strong>"Falta que la origina"</strong>:</p>
+<ul>
+  <li><span class="pill">Solo muy graves</span> Separación del servicio · Despido disciplinario (reserva expresa del art. 96.2).</li>
+  <li><span class="pill">Graves o muy graves*</span> Suspensión · Traslado forzoso · Demérito.</li>
+  <li><span class="pill">Leve</span> Apercibimiento.</li>
+</ul>
+<p style="font-size:13px;color:#5b6b7c">*La asignación concreta de estas tres sanciones a cada tipo de falta la fijan las leyes de Función Pública; el TREBEP solo reserva expresamente la separación/despido a las muy graves.</p>
+
+<h3>4 · Permisos del art. 48 (§9.2)</h3>
+<p>La lista pasa a tabla. Dato clave que más se confunde en examen:</p>
+<table>
+  <thead><tr><th>Familiar</th><th>Misma localidad</th><th>Distinta localidad</th></tr></thead>
+  <tbody>
+    <tr><td>1.er grado</td><td><strong>3 días hábiles</strong></td><td><strong>5 días hábiles</strong></td></tr>
+    <tr><td>2.º grado</td><td><strong>2 días hábiles</strong></td><td><strong>4 días hábiles</strong></td></tr>
+  </tbody>
+</table>
+
+<h3>5 · Acuerdo-Convenio del Ayuntamiento de Madrid (§9.5, nuevo)</h3>
+<p>Por ser normativa directamente aplicable a una plaza del IAM, se añade nota + referencia cruzada al Tema 9 y una mini-tabla con datos vigentes (fuente: portal de transparencia del Ayuntamiento de Madrid, arts. 14-15 del Acuerdo-Convenio):</p>
+<table>
+  <thead><tr><th>Concepto</th><th>Regla</th></tr></thead>
+  <tbody>
+    <tr><td>Vacaciones</td><td>22 días hábiles + antigüedad: 15/20/25/30 años → <strong>+1/+2/+3/+4</strong> días hábiles</td></tr>
+    <tr><td>Asuntos particulares</td><td>6 días/año + <strong>2 días</strong> desde el 6.º trienio + <strong>1 día</strong> por trienio desde el 8.º</td></tr>
+  </tbody>
+</table>
+<div class="box warn">
+  <strong>Dato volátil:</strong> las cifras del Acuerdo-Convenio cambian con cada actualización del propio Acuerdo. Conviene reverificarlas antes de cada convocatoria. El TREBEP es siempre el mínimo (suelo); el Acuerdo-Convenio mejora, nunca empeora.
+</div>
+
+<h2>Pendiente de confirmación por el IAM</h2>
+<ul>
+  <li>El PDF de partida procedía del <strong>INSST (ámbito estatal)</strong> y omitía tres epígrafes del enunciado oficial (adquisición/pérdida, jornada/permisos/vacaciones y negociación colectiva), completados desde el texto oficial del TREBEP (BOE). → Confirmar que el alcance es el correcto.</li>
+  <li>Corrección frente al PDF: los <strong>principios éticos son el art. 53</strong> y los <strong>principios de conducta el art. 54</strong> (el PDF situaba ambos en el 53).</li>
+</ul>
+
+<footer>
+  ETRIVIUM · MARKETINGLOBALSEO — Informe generado el 23/06/2026 · Tema 5 v1.1
+</footer>
+</body>
+</html>

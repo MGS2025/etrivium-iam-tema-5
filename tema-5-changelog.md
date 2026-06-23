@@ -4,6 +4,22 @@
 
 ---
 
+## v1.1 — 2026-06-23 — Correcciones de María (IAM)
+
+**Estado**: Revisión de María aplicada. Pendiente de validación final.
+
+### Cambios
+
+- **Diagramas (visual)**: corregido el desbordamiento de texto fuera de las cajas en **D12** (mapa-resumen, rediseñado con cajas más anchas y subtítulos a menor tamaño) y ajustados **D10** (caja del Acuerdo-Convenio) y **D5** (última caja). **QA por render (Chrome headless)** para garantizar 0 desbordes en los 12 diagramas.
+- **§13 Incompatibilidades**: se retira la etiqueta "pendiente de confirmación". La **Ley 53/1984** se consolida como contenido firme (María confirma que es materia habitual en estas oposiciones).
+- **§12.3 Tabla de sanciones**: añadida la columna **"Falta que la origina"** (separación/despido → solo muy graves; suspensión/traslado/demérito → graves o muy graves según ley de FP; apercibimiento → leve).
+- **§9.2 Permisos**: la lista del art. 48 se convierte en **tabla**, destacando los días por **grado de parentesco** (1.er grado 3/5 · 2.º grado 2/4), que se confunden en examen.
+- **§9.5 (nuevo) Acuerdo-Convenio del Ayuntamiento de Madrid**: nota + referencia cruzada al Tema 9 **y** mini-tabla con datos reales aplicables al IAM (vacaciones por antigüedad: 15/20/25/30 años → +1/+2/+3/+4 días; asuntos particulares: 6 + escala por trienios). Fuente: portal de transparencia del Ayuntamiento de Madrid (arts. 14-15 del Acuerdo-Convenio).
+- **Índice y fuentes** actualizados (nueva fuente `[AC-MADRID]`, datos clave de antigüedad y permisos).
+- **Acompaña** `informe-correcciones-v1.1.html` con el detalle de los cambios para la revisora.
+
+---
+
 ## v1.0 — 2026-06-20 — Generación inicial completa
 
 **Estado**: Pendiente de validación por María / Ana (IAM).

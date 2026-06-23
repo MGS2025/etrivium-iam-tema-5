@@ -195,7 +195,7 @@ def casos_html(md):
         out.append(
             f'<div class="caso-box">'
             f'<h3>{html.escape(num)} — {html.escape(rest)} '
-            f'<span class="badge badge-new" style="margin-left:10px;font-size:10px;vertical-align:middle">NUEVO v1.0</span></h3>'
+            f'<span class="badge badge-new" style="margin-left:10px;font-size:10px;vertical-align:middle">v1.1</span></h3>'
             f'{body_html}</div>'
         )
     return "\n".join(out)
@@ -229,9 +229,9 @@ def build():
     <p class="subtitle">Texto refundido de la Ley del Estatuto Básico del Empleado Público (RDL 5/2015) · Clases de personal · Adquisición y pérdida · Situaciones administrativas · Derechos, carrera y retribuciones · Jornada, permisos y vacaciones · Régimen disciplinario</p>
   </div>
   <div class="version-banner">
-    <span class="badge badge-v1">v1.0</span>
-    <div><strong>Piloto pendiente de validación</strong><br>
-    <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-20</small></div>
+    <span class="badge badge-v1">v1.1</span>
+    <div><strong>Correcciones de María (IAM) aplicadas</strong><br>
+    <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-23</small></div>
   </div>
   <div class="card">
     <h2 style="margin-top:0">Resumen del tema</h2>

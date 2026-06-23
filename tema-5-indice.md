@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
-> **Fecha**: 2026-06-20
+> **Versión**: 1.1 — Correcciones de María (IAM) aplicadas
+> **Fecha**: 2026-06-23
 
 ---
 
@@ -21,11 +21,11 @@
 | 6 | Carrera profesional y promoción interna | Arts. 16-19 | D8 |
 | 7 | La evaluación del desempeño | Art. 20 | D8 |
 | 8 | Derechos retributivos | Arts. 21-30 | D9 |
-| 9 | Jornada de trabajo, permisos y vacaciones | Arts. 47-51 | D10 |
+| 9 | Jornada, permisos y vacaciones (+ Acuerdo-Convenio Ayto. Madrid) | Arts. 47-51 | D10 |
 | 10 | Negociación colectiva, representación y participación | Arts. 31-46 | D7 |
 | 11 | Deberes de los empleados públicos. Código de conducta | Arts. 52-54 | — |
 | 12 | Régimen disciplinario | Arts. 93-98 | D11 |
-| 13 | (Complementario) Régimen de incompatibilidades | Ley 53/1984 | — |
+| 13 | Régimen de incompatibilidades | Ley 53/1984 | — |
 | 14 | Esquema resumen + cómo estudiar el tema | — | D12 |
 
 ---
@@ -50,6 +50,9 @@
 | Tipos de carrera | Horizontal, vertical, promoción interna vertical y horizontal | Art. 16 |
 | Retribuciones básicas | **Sueldo + trienios** (se fijan en los PGE) | Art. 23 |
 | Vacaciones | **22 días hábiles** anuales (o proporcional) | Art. 50 |
+| Vacaciones IAM por antigüedad | 15/20/25/30 años → **+1/+2/+3/+4** días hábiles | Acuerdo-Convenio, art. 14 |
+| Asuntos particulares IAM | **6 días** + 2 desde el 6.º trienio + 1 por trienio desde el 8.º | Acuerdo-Convenio, art. 15 |
+| Permiso por familiar (1.er/2.º grado) | **3/5** días (1.er grado) · **2/4** días (2.º grado) | Art. 48.a) |
 | Faltas disciplinarias | **Muy graves, graves y leves** | Art. 95 |
 | Prescripción de faltas | Muy graves **3 años**, graves **2 años**, leves **6 meses** | Art. 97 |
 | Sanción máxima | **Separación del servicio** (solo por falta muy grave) | Art. 96 |
