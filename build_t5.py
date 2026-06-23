@@ -131,9 +131,24 @@ def parse_diagramas(md):
         blocks.append((did.strip(), dtitle.strip(), sec, prop, svg))
     return blocks
 
+def scope_svg(svg, scope):
+    """Aísla el CSS del <style> de cada SVG a una clase única para evitar que las
+    reglas .h/.t/.s/.p colisionen entre los 12 SVG del documento (bug que hacía
+    que la última definición de cada clase ganara para todos -> texto desbordado)."""
+    svg = re.sub(r"<svg ", f'<svg class="{scope}" ', svg, count=1)
+    def _scope(m):
+        css = m.group(1)
+        rules = []
+        for sels, body in re.findall(r"([^{}]+)\{([^{}]*)\}", css):
+            newsels = ",".join(f".{scope} {s.strip()}" for s in sels.split(",") if s.strip())
+            rules.append(f"{newsels}{{{body.strip()}}}")
+        return "<style>" + "".join(rules) + "</style>"
+    return re.sub(r"<style>(.*?)</style>", _scope, svg, flags=re.S)
+
 def diagramas_html(blocks):
     out = []
     for did, dtitle, sec, prop, svg in blocks:
+        svg = scope_svg(svg, "sv" + did.lower())
         out.append(
             f'<div class="diagram">'
             f'<div class="diagram-title">{html.escape(did)} · {html.escape(dtitle)}</div>'

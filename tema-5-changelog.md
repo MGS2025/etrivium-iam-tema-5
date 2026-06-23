@@ -4,14 +4,19 @@
 
 ---
 
-## v1.2 — 2026-06-23 — Diagramas ampliados (legibilidad)
+## v1.2 — 2026-06-23 — Fix real de diagramas (CSS scoped) + ampliación
 
-**Estado**: Mejora visual sobre v1.1.
+**Estado**: Corrige el desbordamiento de texto que María observó en los diagramas.
+
+### Causa raíz encontrada
+
+Los `<style>` embebidos en cada SVG usaban clases genéricas (`.h`, `.t`, `.s`, `.p`) **sin aislar**. Como los 12 SVG conviven en un mismo documento (`index.html`), esas reglas CSS **colisionaban entre sí** y la última definición de cada clase ganaba para todos los SVG. Resultado: en varios diagramas (D3, D7, D9…) el `text-anchor` correcto se sobrescribía y el texto se renderizaba mal anclado, **saliéndose de las cajas**. El fallo NO se veía al abrir un SVG aislado (sin colisión), solo en la página con los 12 juntos — por eso costó localizarlo.
 
 ### Cambios
 
-- **Legibilidad de los diagramas**: la pestaña Diagramas pasa a un contenedor más ancho (hasta 1240px) para que los SVG escalen mayor y el texto se lea cómodo **al 100% de zoom**, sin necesidad de ampliar el navegador. Verificado por render que ningún diagrama desborda (escalado uniforme, sin cambios de geometría interna).
-- Nota: el recorte de texto observado en revisión provenía de una vista con zoom/scroll o panel estrecho; al 100% la página siempre muestra los diagramas completos. Esta versión los hace más grandes para evitar la tentación de hacer zoom.
+- **Fix**: `build_t5.py` ahora **aísla (scopes) el CSS de cada SVG** a una clase única (`.svdN`), de modo que las reglas de un diagrama no afectan a los demás. Verificado por medición `getBBox` sobre el `index.html` real: **0 textos fuera de su viewBox** (antes, 13).
+- **Legibilidad**: la pestaña Diagramas usa además un contenedor más ancho (hasta 1240px) para que los SVG escalen mayor y el texto se lea cómodo al 100%.
+- Nota metodológica: la verificación de diagramas pasa a hacerse sobre el `index.html` real (los 12 SVG juntos), no sobre SVG aislados, y con medición objetiva de desbordes por `getBBox`.
 
 ---
 
