@@ -2,7 +2,7 @@
 
 > **Título oficial**: El personal al servicio de la Administración Pública conforme al TREBEP (RDL 5/2015).
 >
-> **Versión**: 1.1 — ajuste visual (D5, D10, D12) tras revisión de María
+> **Versión**: 1.2 — tipografía ampliada y cajas más holgadas (legibilidad al 100%)
 > **Fecha**: 2026-06-23
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)

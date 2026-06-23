@@ -4,6 +4,17 @@
 
 ---
 
+## v1.2 — 2026-06-23 — Diagramas ampliados (legibilidad)
+
+**Estado**: Mejora visual sobre v1.1.
+
+### Cambios
+
+- **Legibilidad de los diagramas**: la pestaña Diagramas pasa a un contenedor más ancho (hasta 1240px) para que los SVG escalen mayor y el texto se lea cómodo **al 100% de zoom**, sin necesidad de ampliar el navegador. Verificado por render que ningún diagrama desborda (escalado uniforme, sin cambios de geometría interna).
+- Nota: el recorte de texto observado en revisión provenía de una vista con zoom/scroll o panel estrecho; al 100% la página siempre muestra los diagramas completos. Esta versión los hace más grandes para evitar la tentación de hacer zoom.
+
+---
+
 ## v1.1 — 2026-06-23 — Correcciones de María (IAM)
 
 **Estado**: Revisión de María aplicada. Pendiente de validación final.

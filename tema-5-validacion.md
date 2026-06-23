@@ -1,7 +1,7 @@
 # Tema 5 — Checklist de Validación
 
 > **Título oficial**: El personal al servicio de la Administración Pública conforme al TREBEP (RDL 5/2015): clases de personal, adquisición y pérdida, situaciones administrativas, derechos, carrera, evaluación, retribuciones, jornada/permisos/vacaciones y régimen disciplinario.
-> **Versión**: 1.1 — Correcciones de María (IAM) aplicadas
+> **Versión**: 1.2 — Correcciones de María + diagramas ampliados
 > **Fecha**: 2026-06-23
 > **Revisoras**: María + Ana (IAM)
 

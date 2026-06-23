@@ -4,7 +4,7 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.1 — Correcciones de María (IAM) aplicadas
+> **Versión**: 1.2 — Correcciones de María + diagramas ampliados
 > **Fecha**: 2026-06-23
 > **Fuentes**: Ver `tema-5-fuentes.md` · **Diagramas**: Ver `tema-5-diagramas.md` · **Cambios**: Ver `tema-5-changelog.md`
 

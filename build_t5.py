@@ -229,8 +229,8 @@ def build():
     <p class="subtitle">Texto refundido de la Ley del Estatuto Básico del Empleado Público (RDL 5/2015) · Clases de personal · Adquisición y pérdida · Situaciones administrativas · Derechos, carrera y retribuciones · Jornada, permisos y vacaciones · Régimen disciplinario</p>
   </div>
   <div class="version-banner">
-    <span class="badge badge-v1">v1.1</span>
-    <div><strong>Correcciones de María (IAM) aplicadas</strong><br>
+    <span class="badge badge-v1">v1.2</span>
+    <div><strong>Correcciones de María (IAM) aplicadas · diagramas ampliados</strong><br>
     <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-23</small></div>
   </div>
   <div class="card">
