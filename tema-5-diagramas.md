@@ -110,9 +110,10 @@
   <text x="630" y="149" class="t" style="font-weight:700">eventual</text>
   <text x="630" y="170" class="s">confianza/asesor.;</text>
   <text x="630" y="186" class="s">libre cese (art. 12)</text>
-  <rect x="200" y="240" width="320" height="66" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="266" class="t" style="font-weight:700;fill:#b5740f">Personal directivo (art. 13)</text>
-  <text x="360" y="288" class="s">funciones directivas profesionales · designación por mérito e idoneidad · sujeto a evaluación</text>
+  <rect x="110" y="236" width="500" height="82" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="360" y="262" class="t" style="font-weight:700;fill:#b5740f">Personal directivo (art. 13)</text>
+  <text x="360" y="284" class="s">funciones directivas profesionales ·</text>
+  <text x="360" y="301" class="s">designación por mérito e idoneidad · sujeto a evaluación</text>
 </svg>
 ```
 

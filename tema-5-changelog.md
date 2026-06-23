@@ -16,7 +16,8 @@ Los `<style>` embebidos en cada SVG usaban clases genéricas (`.h`, `.t`, `.s`, 
 
 - **Fix**: `build_t5.py` ahora **aísla (scopes) el CSS de cada SVG** a una clase única (`.svdN`), de modo que las reglas de un diagrama no afectan a los demás. Verificado por medición `getBBox` sobre el `index.html` real: **0 textos fuera de su viewBox** (antes, 13).
 - **Legibilidad**: la pestaña Diagramas usa además un contenedor más ancho (hasta 1240px) para que los SVG escalen mayor y el texto se lea cómodo al 100%.
-- Nota metodológica: la verificación de diagramas pasa a hacerse sobre el `index.html` real (los 12 SVG juntos), no sobre SVG aislados, y con medición objetiva de desbordes por `getBBox`.
+- **D2**: el subtítulo de "Personal directivo (art. 13)" era más ancho que su caja → partido en **2 líneas** y caja ensanchada.
+- Nota metodológica: la verificación de diagramas pasa a hacerse sobre el `index.html` real (los 12 SVG juntos), no sobre SVG aislados, con medición objetiva por `getBBox` tanto contra el viewBox como **contra la caja contenedora de cada texto**.
 
 ---
 
