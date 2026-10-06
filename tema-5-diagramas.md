@@ -84,7 +84,7 @@
   <rect x="250" y="16" width="220" height="46" rx="8" fill="#003d75"/>
   <text x="360" y="37" class="h">EMPLEADOS PÚBLICOS</text>
   <text x="360" y="54" class="h" style="font-weight:400;font-size:10.5px">art. 8 TREBEP</text>
-  <line x1="360" y1="62" x2="360" y2="78" stroke="#0055a0"/>
+  <line x1="360" y1="62" x2="360" y2="95" stroke="#0055a0"/>
   <line x1="90" y1="95" x2="630" y2="95" stroke="#0055a0"/>
   <line x1="90" y1="95" x2="90" y2="110" stroke="#0055a0"/>
   <line x1="270" y1="95" x2="270" y2="110" stroke="#0055a0"/>
@@ -207,25 +207,25 @@
   </style>
   <rect x="230" y="16" width="240" height="40" rx="8" fill="#003d75"/>
   <text x="350" y="41" class="h">SITUACIONES (art. 85)</text>
-  <rect x="30" y="90" width="120" height="80" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="90" y="120" class="t" style="font-weight:700">Servicio</text>
-  <text x="90" y="138" class="t" style="font-weight:700">activo</text>
-  <text x="90" y="158" class="s">todos los derechos</text>
-  <rect x="166" y="90" width="120" height="80" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="226" y="116" class="t" style="font-weight:700">Servicios</text>
-  <text x="226" y="134" class="t" style="font-weight:700">especiales</text>
-  <text x="226" y="156" class="s">conserva trienios</text>
-  <rect x="302" y="90" width="120" height="80" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="362" y="116" class="t" style="font-weight:700">Servicio en</text>
-  <text x="362" y="134" class="t" style="font-weight:700">otras AAPP</text>
-  <text x="362" y="156" class="s">en otra Admón.</text>
-  <rect x="438" y="90" width="120" height="80" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="498" y="124" class="t" style="font-weight:700">Excedencia</text>
-  <text x="498" y="150" class="s">5 modalidades</text>
-  <rect x="574" y="90" width="110" height="80" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
-  <text x="629" y="116" class="t" style="font-weight:700">Suspensión</text>
-  <text x="629" y="134" class="t" style="font-weight:700">de funciones</text>
-  <text x="629" y="156" class="s" style="font-size:9.5px">pierde puesto si >6 m.</text>
+  <rect x="20" y="90" width="124" height="80" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="82" y="120" class="t" style="font-weight:700">Servicio</text>
+  <text x="82" y="138" class="t" style="font-weight:700">activo</text>
+  <text x="82" y="158" class="s">todos los derechos</text>
+  <rect x="154" y="90" width="124" height="80" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="216" y="116" class="t" style="font-weight:700">Servicios</text>
+  <text x="216" y="134" class="t" style="font-weight:700">especiales</text>
+  <text x="216" y="156" class="s">conserva trienios</text>
+  <rect x="288" y="90" width="124" height="80" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="350" y="116" class="t" style="font-weight:700">Servicio en</text>
+  <text x="350" y="134" class="t" style="font-weight:700">otras AAPP</text>
+  <text x="350" y="156" class="s">en otra Admón.</text>
+  <rect x="422" y="90" width="124" height="80" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="484" y="124" class="t" style="font-weight:700">Excedencia</text>
+  <text x="484" y="150" class="s">5 modalidades</text>
+  <rect x="556" y="90" width="124" height="80" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
+  <text x="618" y="116" class="t" style="font-weight:700">Suspensión</text>
+  <text x="618" y="134" class="t" style="font-weight:700">de funciones</text>
+  <text x="618" y="156" class="s" style="font-size:9.5px">pierde puesto si >6 m.</text>
   <rect x="120" y="210" width="460" height="44" rx="6" fill="#f4f6f9" stroke="#0055a0"/>
   <text x="350" y="237" class="s" style="font-weight:700;fill:#0055a0">El reingreso al servicio activo se regula en el art. 91</text>
 </svg>
@@ -501,16 +501,16 @@
     .t{font:700 11px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
     .s{font:9.5px system-ui,sans-serif;fill:#555;text-anchor:middle}
   </style>
-  <line x1="380" y1="181" x2="122" y2="46" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="230" y2="46" stroke="#cdd6e0"/>
   <line x1="380" y1="181" x2="380" y2="46" stroke="#cdd6e0"/>
-  <line x1="380" y1="181" x2="638" y2="46" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="530" y2="46" stroke="#cdd6e0"/>
   <line x1="380" y1="181" x2="122" y2="112" stroke="#cdd6e0"/>
   <line x1="380" y1="181" x2="638" y2="112" stroke="#cdd6e0"/>
   <line x1="380" y1="181" x2="122" y2="256" stroke="#cdd6e0"/>
   <line x1="380" y1="181" x2="638" y2="256" stroke="#cdd6e0"/>
-  <line x1="380" y1="181" x2="122" y2="322" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="230" y2="322" stroke="#cdd6e0"/>
   <line x1="380" y1="181" x2="380" y2="322" stroke="#cdd6e0"/>
-  <line x1="380" y1="181" x2="638" y2="322" stroke="#cdd6e0"/>
+  <line x1="380" y1="181" x2="530" y2="322" stroke="#cdd6e0"/>
   <rect x="305" y="152" width="150" height="58" rx="10" fill="#003d75"/>
   <text x="380" y="178" class="h">TREBEP</text>
   <text x="380" y="196" class="h" style="font-weight:400;font-size:11px">RDL 5/2015</text>

@@ -4,6 +4,16 @@
 
 ---
 
+## v1.5 — 2026-10-06 — Revisión de diagramas
+
+**Motivo**: barrido de los diagramas de los 40 temas tras la revisión jurídica y de normas.
+
+### Cambios
+
+- Revisión visual de todos los diagramas, captura a captura (la medición automática no detecta contraste, flechas mal dirigidas ni textos pegados al borde): corregidos textos que se salían de su caja o del lienzo, cajas que se tocaban, flechas que no llegaban a su destino y textos con poco contraste. Sin cambios de contenido.
+
+---
+
 ## v1.4 — 2026-10-01 — Revisión jurídica
 
 **Estado**: revisión jurídica aplicada; texto contrastado con el BOE consolidado (TREBEP y Ley 53/1984, consulta 01/10/2026) y con el texto del Acuerdo-Convenio 2019-2022 del Ayuntamiento de Madrid.
