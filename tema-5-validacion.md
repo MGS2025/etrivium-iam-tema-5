@@ -1,8 +1,8 @@
 # Tema 5 — Checklist de Validación
 
 > **Título oficial**: El personal al servicio de la Administración Pública conforme al TREBEP (RDL 5/2015): clases de personal, adquisición y pérdida, situaciones administrativas, derechos, carrera, evaluación, retribuciones, jornada/permisos/vacaciones y régimen disciplinario.
-> **Versión**: 1.2 — Correcciones de María + diagramas ampliados
-> **Fecha**: 2026-06-23
+> **Versión**: 1.4 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Revisoras**: María + Ana (IAM)
 
 ---
@@ -18,25 +18,25 @@
 ## 1. Fuentes y trazabilidad
 
 - [ ] La fuente nuclear es el **TREBEP (RDL 5/2015)** en su versión consolidada.
-- [ ] El PDF aportado por el cliente (INSST) se ha usado como base y **se han completado los epígrafes ausentes** desde el texto oficial del BOE.
+- [ ] Todos los epígrafes del enunciado oficial se desarrollan desde el texto oficial del BOE.
 - [ ] Cada afirmación que reproduce el articulado está referenciada con `[TREBEP, art. X]`.
-- [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del TREBEP o a la Ley 53/1984.
+- [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del TREBEP, de la Ley 53/1984 o del Acuerdo-Convenio del Ayuntamiento de Madrid.
 
 ## 2. Estructura del contenido
 
 - [ ] El `tema-5-indice.md` refleja fielmente la estructura de `tema-5-contenido.md`.
 - [ ] Las secciones cubren: clases de personal, adquisición y pérdida, situaciones administrativas, derechos (individuales y colectivos), carrera y promoción interna, evaluación del desempeño, retribuciones, jornada/permisos/vacaciones, negociación y representación, deberes/código de conducta y régimen disciplinario.
-- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE EXAMEN]`.
-- [ ] Las reproducciones del articulado aparecen como `[CITA NORMATIVA]`.
-- [ ] Los ejemplos del Ayto de Madrid / IAM están marcados como `[EJEMPLO AYTO MADRID]`.
-- [ ] Los enlaces a otros temas se marcan como `[REFERENCIA CRUZADA]`.
+- [ ] Los conceptos memorizables aparecen en cajas **Dato clave**.
+- [ ] Las reproducciones del articulado aparecen en cajas **Cita normativa**.
+- [ ] Los ejemplos del Ayto de Madrid / IAM aparecen en cajas **Ejemplo de aplicación en el Ayto**.
+- [ ] Los enlaces a otros temas aparecen en cajas **Relación con otros temas**.
 
 ## 3. Rigor jurídico (datos sensibles)
 
 - [ ] Funcionario interino: vacante **3 años**, programas temporales **3 años + 12 meses**, exceso de tareas **9 meses/18** [art. 10].
 - [ ] Adquisición de la condición: 4 requisitos sucesivos (proceso → nombramiento → acatamiento → toma de posesión) [art. 62].
-- [ ] Renuncia **no inhabilita**; separación del servicio **sí** [arts. 64, 66].
-- [ ] Jubilación forzosa **65 años**, prorrogable hasta **70** [art. 67].
+- [ ] Renuncia **no inhabilita** para el reingreso [art. 64.3]; separación del servicio firme = causa de pérdida [art. 63.d].
+- [ ] Jubilación forzosa **65 años**, prolongación como máximo hasta **70** [art. 67.3].
 - [ ] Excedencia voluntaria por interés particular: **5 años** previos, no devenga, no computa [art. 89.2].
 - [ ] Excedencia por cuidado de familiares: **3 años**, reserva **2 años**, computa [art. 89.4].
 - [ ] Suspensión: pierde puesto si **> 6 meses**; firme disciplinaria máx. **6 años** [art. 90].
@@ -44,9 +44,9 @@
 - [ ] Carrera: horizontal/vertical + promoción interna vertical/horizontal; **2 años** de antigüedad [arts. 16, 18].
 - [ ] Retribuciones básicas = **sueldo + trienios** (PGE) [art. 23].
 - [ ] Vacaciones: **22 días hábiles**; sábados no hábiles [art. 50].
-- [ ] Permisos por nacimiento: **16 semanas** [art. 49].
-- [ ] Juntas de Personal (**≥50**) vs Delegados (**<50**) [art. 39].
-- [ ] Código de conducta: principios éticos **art. 53** / de conducta **art. 54** (corrige el error del PDF, que situaba ambos en el art. 53).
+- [ ] Permisos por nacimiento: **19 semanas** [art. 49, redacción del RDL 9/2025].
+- [ ] Juntas de Personal (**≥50**) vs Delegados (**6 a 49**) [art. 39].
+- [ ] Código de conducta: principios éticos **art. 53** / de conducta **art. 54**.
 - [ ] Prescripción: faltas **3/2 años y 6 meses**; sanciones **3/2 años y 1 año** [art. 97].
 
 ## 4. Diagramas SVG
@@ -91,7 +91,7 @@
 
 ## Observaciones generales
 
-### Correcciones de María aplicadas en v1.1
+### Correcciones aplicadas en v1.1
 
 1. **Diagramas reajustados** (D5, D10 y, sobre todo, D12 "mapa-resumen"): se eliminó el desbordamiento de texto fuera de las cajas; verificado por render antes de publicar.
 2. **§13 Incompatibilidades consolidada**: se retira la etiqueta "pendiente de confirmación"; la Ley 53/1984 pasa a ser contenido firme del tema.
@@ -101,15 +101,15 @@
 
 ### Decisiones conscientes que conviene confirmar
 
-1. **El PDF del cliente es del INSST (ámbito estatal), no de Madrid**, y **omitía tres epígrafes** del enunciado oficial del Tema 5: (a) adquisición y pérdida de la relación de servicio, (b) jornada/permisos/vacaciones, y (c) negociación colectiva, representación y participación. **Se han completado desde el texto oficial del TREBEP (BOE)**. → Confirmar que el alcance es el correcto.
-2. **Corrección detectada en el PDF**: situaba los "principios éticos" y los "principios de conducta" **ambos en el art. 53**. Lo correcto es **principios éticos = art. 53** y **principios de conducta = art. 54**. Se ha corregido.
+1. Los epígrafes (a) adquisición y pérdida de la relación de servicio, (b) jornada/permisos/vacaciones, y (c) negociación colectiva, representación y participación se desarrollan desde el texto oficial del TREBEP (BOE). → Confirmar que el alcance es el correcto.
+2. **Principios éticos = art. 53** y **principios de conducta = art. 54**.
 3. **150 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas (con pestaña Índice)**, replicando el formato de los Temas 1-4 + la mejora de Índice del Tema 13.
 4. **Balanceo automático A/B/C** mediante permutación determinista en `build_t5.py`.
 
 ### Puntos a vigilar (datos volátiles)
 
-- Los **permisos y vacaciones** y los **órganos de representación** pueden estar mejorados por el **Acuerdo-Convenio del Ayuntamiento de Madrid** vigente. Los mínimos del TREBEP son el suelo; reverificar el Acuerdo-Convenio antes de cada convocatoria.
-- Las **faltas graves y leves** dependen de la legislación de Función Pública aplicable.
+- Los **permisos y vacaciones** y los **órganos de representación** del personal municipal se regulan también en el **Acuerdo-Convenio del Ayuntamiento de Madrid** vigente; reverificar el Acuerdo-Convenio antes de cada convocatoria.
+- Las **faltas graves** se establecen por ley (o convenio, para el personal laboral) y las **leves** por las leyes de Función Pública [art. 95.3 y 95.4].
 
 ---
 

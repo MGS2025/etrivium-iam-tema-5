@@ -4,6 +4,27 @@
 
 ---
 
+## v1.4 — 2026-10-01 — Revisión jurídica
+
+**Estado**: revisión jurídica aplicada; texto contrastado con el BOE consolidado (TREBEP y Ley 53/1984, consulta 01/10/2026) y con el texto del Acuerdo-Convenio 2019-2022 del Ayuntamiento de Madrid.
+
+### Cambios de la revisión
+
+- §3 y §9: las notas de alcance ya no hacen referencia al origen del material.
+- §8.2: «las leyes de cada AP» → «las correspondientes leyes de cada Administración Pública» (literal del art. 24); el resto de usos administrativos del acrónimo AP se sustituyen igualmente (contenido, índice, test, diagramas D5 y D12, título de la página).
+- Fuentes: la «Naturaleza de las fuentes» se reescribe sin referencias al material de partida; se elimina la tabla Tier 2 y la fila de trazabilidad asociada; el temario oficial BOAM 10.032 pasa a Tier 1. La Ley 53/1984 y el Acuerdo-Convenio se mantienen (este último identificado con su título completo, periodo 2019-2022, BOAM núm. 8307 de 02/01/2019 y artículos 14.1, 14.7 y 15.l).
+
+### Reglas generales
+
+- **Cajas**: «Dato clave examen» → «Dato clave»; «Cita constitucional» → «Cita normativa»; «Ejemplo Ayto Madrid» → «Ejemplo de aplicación en el Ayto»; «Referencia cruzada» → «Relación con otros temas» (HTML, `.md` y `build_t5.py`). La leyenda ya no promete aparición en el test oficial.
+- **Citas de artículos**: «art.» en el paréntesis de inciso y «artículo» cuando la cita forma parte de la oración.
+- **Reflexiones y promesas sobre el examen** eliminadas (§9.2, §9.5, §14.2, índice).
+- **Correcciones normativas** contra el BOE: art. 1.3 (fundamentos literales); art. 49 (permisos por nacimiento, adopción y del otro progenitor: **19 semanas**, redacción del RDL 9/2025, y permiso parental del art. 49.g); art. 48.a) (accidente o enfermedad graves: 5/4 días hábiles sin distinción de localidad; fallecimiento: 3/5 y 2/4); art. 48.k) (6 días de asuntos particulares) y 48.l); art. 33.1 (principios de la negociación, antes citado como 31.5); art. 36 (materias de la Mesa General de las AAPP); art. 39 (Delegados de Personal: 6 a 49 funcionarios); art. 63.d (separación del servicio, antes citada como art. 66); art. 64.3; art. 67 (sin jubilación «parcial»; añadido el 67.4); art. 68 (rehabilitación: supuestos literales; no aplica a la separación disciplinaria); art. 87.2 (antes 87.3); art. 90.1/90.2; art. 91; art. 95.2.p y 95.3/95.4; art. 96 (tabla de sanciones sin correspondencias que el TREBEP no establece); art. 22.4 (pagas extraordinarias).
+- **Test**: 150 preguntas mantenidas; 69 preguntas reescritas o con referencia corregida para ajustarse al texto literal; respuestas correctas reequilibradas en el `.md` (50/50/50). Pedagógicas P4, P5, P7-P10, P15-P19 ajustadas.
+- **Casos prácticos** 2, 3, 4, 5 y 6 y **diagramas** D4, D5, D6, D8, D9, D10, D11 y D12 alineados con los cambios anteriores.
+
+---
+
 ## v1.3 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

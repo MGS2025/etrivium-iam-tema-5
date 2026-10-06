@@ -182,9 +182,9 @@
   <rect x="380" y="130" width="300" height="26" rx="5" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="396" y="148" class="s">c) Jubilación (art. 67)</text>
   <rect x="380" y="160" width="300" height="26" rx="5" fill="#fdeaea" stroke="#d13c3c"/>
-  <text x="396" y="178" class="s">d) Separación del servicio (sanción · 66)</text>
+  <text x="396" y="178" class="s">d) Separación del servicio firme (art. 63.d)</text>
   <rect x="380" y="190" width="300" height="26" rx="5" fill="#fdeaea" stroke="#d13c3c"/>
-  <text x="396" y="208" class="s">e) Inhabilitación absoluta o especial (66)</text>
+  <text x="396" y="208" class="s">e) Inhabilitación absoluta o especial (art. 66)</text>
   <rect x="380" y="228" width="300" height="40" rx="6" fill="#fff5e6" stroke="#e89822"/>
   <text x="530" y="246" class="t" style="font-size:11px;fill:#b5740f">Jubilación forzosa: 65 años</text>
   <text x="530" y="262" class="t" style="font-size:11px;fill:#b5740f">(prorrogable hasta los 70)</text>
@@ -218,7 +218,7 @@
   <rect x="302" y="90" width="120" height="80" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="362" y="116" class="t" style="font-weight:700">Servicio en</text>
   <text x="362" y="134" class="t" style="font-weight:700">otras AAPP</text>
-  <text x="362" y="156" class="s">destino en otra AP</text>
+  <text x="362" y="156" class="s">en otra Admón.</text>
   <rect x="438" y="90" width="120" height="80" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="498" y="124" class="t" style="font-weight:700">Excedencia</text>
   <text x="498" y="150" class="s">5 modalidades</text>
@@ -239,7 +239,7 @@
 **Propósito**: Comparar las excedencias por requisito, retribución y reserva de puesto.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="Comparativa de excedencias: voluntaria por interés particular exige cinco años y no retribuye; por cuidado de familiares dura tres años con reserva de puesto dos años; por violencia de género no exige tiempo previo y reserva el puesto seis meses">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="Comparativa de excedencias: voluntaria por interés particular exige cinco años y no retribuye; por cuidado de familiares dura tres años con reserva de puesto de al menos dos años; por violencia de género o sexual no exige tiempo previo y reserva el puesto seis meses">
   <style>
     .h{font:700 12px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:11.5px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -268,7 +268,7 @@
   <text x="360" y="262" class="s">luego misma localidad</text>
   <text x="360" y="278" class="s">e igual retribución</text>
   <rect x="480" y="62" width="220" height="240" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="590" y="86" class="t" style="font-weight:700">Violencia de género</text>
+  <text x="590" y="86" class="t" style="font-weight:700">Violencia género/sexual</text>
   <text x="590" y="118" class="s">Requisito:</text>
   <text x="590" y="134" class="t" style="font-weight:700;fill:#b5740f">sin tiempo previo</text>
   <text x="590" y="166" class="s">Retribución:</text>
@@ -339,7 +339,7 @@
   <text x="270" y="108" class="t" style="font-weight:700">Vertical</text>
   <text x="270" y="138" class="s">ascenso en la</text>
   <text x="270" y="156" class="s">estructura de puestos</text>
-  <text x="270" y="178" class="s" style="font-weight:700;fill:#0055a0">cambio de puesto</text>
+  <text x="270" y="178" class="s" style="font-weight:700;fill:#0055a0">por provisión</text>
   <rect x="360" y="80" width="150" height="110" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="435" y="104" class="t" style="font-weight:700">Promoción interna</text>
   <text x="435" y="120" class="t" style="font-weight:700">vertical</text>
@@ -364,7 +364,7 @@
 **Propósito**: Distinguir las retribuciones básicas (PGE) de las complementarias.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" role="img" aria-label="Las retribuciones básicas son el sueldo y los trienios, fijados en los Presupuestos Generales del Estado; las complementarias dependen del puesto y del desempeño y las fija cada Administración">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" role="img" aria-label="Las retribuciones básicas son el sueldo y los trienios, fijados en la Ley de Presupuestos Generales del Estado; la cuantía y estructura de las complementarias se establecen por las leyes de cada Administración Pública">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:start}
@@ -377,7 +377,7 @@
   <text x="60" y="134" class="t">• Sueldo (por Subgrupo/Grupo)</text>
   <text x="60" y="166" class="t">• Trienios (cada 3 años)</text>
   <rect x="60" y="190" width="250" height="40" rx="6" fill="#fff" stroke="#2d8659"/>
-  <text x="185" y="215" class="s" style="font-weight:700">Se fijan en los PGE · iguales por Subgrupo</text>
+  <text x="185" y="215" class="s" style="font-weight:700">Se fijan en la Ley de PGE</text>
   <rect x="370" y="74" width="290" height="170" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="515" y="100" class="s" style="font-weight:700;fill:#0055a0;font-size:13px">COMPLEMENTARIAS (art. 24)</text>
   <text x="390" y="128" class="t">• Progresión en la carrera</text>
@@ -385,7 +385,7 @@
   <text x="390" y="176" class="t">• Rendimiento y resultados</text>
   <text x="390" y="200" class="t">• Servicios extraordinarios</text>
   <rect x="390" y="212" width="250" height="22" rx="5" fill="#fff" stroke="#0055a0"/>
-  <text x="515" y="227" class="s" style="font-weight:700">Las fija cada Administración</text>
+  <text x="515" y="227" class="s" style="font-weight:700">Leyes de cada Administración</text>
 </svg>
 ```
 
@@ -397,7 +397,7 @@
 **Propósito**: Resumir jornada/teletrabajo, permisos y vacaciones.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 270" role="img" aria-label="Jornada general y teletrabajo en el artículo 47, permisos en el artículo 48, permisos de conciliación de dieciséis semanas en el artículo 49 y vacaciones de veintidós días hábiles en el artículo 50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 270" role="img" aria-label="Jornada general y teletrabajo en el artículo 47, permisos en el artículo 48, permisos de conciliación de diecinueve semanas en el artículo 49 y vacaciones de veintidós días hábiles en el artículo 50">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -419,7 +419,7 @@
   <rect x="362" y="78" width="150" height="120" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="437" y="104" class="t" style="font-weight:700">Conciliación</text>
   <text x="437" y="122" class="s">art. 49</text>
-  <text x="437" y="154" class="t" style="font-weight:700;fill:#1f5e3f">16 semanas</text>
+  <text x="437" y="154" class="t" style="font-weight:700;fill:#1f5e3f">19 semanas</text>
   <text x="437" y="176" class="s">nacimiento/adopción</text>
   <rect x="528" y="78" width="150" height="120" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="603" y="104" class="t" style="font-weight:700">Vacaciones</text>
@@ -427,7 +427,7 @@
   <text x="603" y="156" class="t" style="font-weight:700;fill:#b5740f">22 días hábiles</text>
   <text x="603" y="178" class="s">(o proporcional)</text>
   <rect x="40" y="216" width="620" height="38" rx="6" fill="#f4f6f9" stroke="#0055a0"/>
-  <text x="350" y="240" class="s" style="font-weight:700;fill:#0055a0;font-size:10px">El Acuerdo-Convenio del Ayto. de Madrid puede mejorar, nunca empeorar, estos mínimos</text>
+  <text x="350" y="240" class="s" style="font-weight:700;fill:#0055a0;font-size:10px">IAM: el Acuerdo-Convenio añade días de vacaciones y de asuntos particulares por antigüedad</text>
 </svg>
 ```
 
@@ -453,13 +453,13 @@
   <text x="580" y="38" class="h">PRESCRIPCIÓN (art. 97)</text>
   <rect x="40" y="66" width="200" height="50" rx="6" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="140" y="88" class="t" style="font-weight:700">Muy graves</text>
-  <text x="140" y="106" class="s">lista cerrada art. 95.2</text>
+  <text x="140" y="106" class="s">art. 95.2 y las que fije la ley</text>
   <rect x="40" y="124" width="200" height="50" rx="6" fill="#fff5e6" stroke="#e89822"/>
   <text x="140" y="146" class="t" style="font-weight:700">Graves</text>
-  <text x="140" y="164" class="s">por ley de FP / convenio</text>
+  <text x="140" y="164" class="s">por ley / convenio (95.3)</text>
   <rect x="40" y="182" width="200" height="50" rx="6" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="140" y="204" class="t" style="font-weight:700">Leves</text>
-  <text x="140" y="222" class="s">por ley de FP / convenio</text>
+  <text x="140" y="222" class="s">por leyes de FP (95.4)</text>
   <rect x="260" y="66" width="200" height="30" rx="5" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="360" y="86" class="s" style="font-weight:700">Separación del servicio</text>
   <rect x="260" y="100" width="200" height="26" rx="5" fill="#f4f6f9" stroke="#0055a0"/>
@@ -471,7 +471,7 @@
   <rect x="260" y="190" width="200" height="26" rx="5" fill="#f4f6f9" stroke="#0055a0"/>
   <text x="360" y="208" class="s">Demérito</text>
   <rect x="260" y="220" width="200" height="26" rx="5" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="360" y="238" class="s">Apercibimiento (la más leve)</text>
+  <text x="360" y="238" class="s">Apercibimiento</text>
   <rect x="480" y="66" width="200" height="50" rx="6" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="580" y="88" class="t" style="font-weight:700">Muy graves: 3 años</text>
   <text x="580" y="106" class="s">sanción: 3 años</text>
@@ -492,7 +492,7 @@
 ## D12 · Mapa-resumen del Tema 5
 
 **Sección**: § 14 — Esquema resumen
-**Propósito**: Visión global del personal al servicio de la AP según el TREBEP.
+**Propósito**: Visión global del personal al servicio de la Administración Pública según el TREBEP.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Mapa resumen del Tema 5: el TREBEP regula clases de personal, acceso y pérdida, situaciones administrativas, derechos, carrera, retribuciones, jornada y permisos, negociación, deberes y régimen disciplinario">

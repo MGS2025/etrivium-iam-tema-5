@@ -18,9 +18,9 @@ Material de estudio para la oposición **C1 — Técnico Auxiliar TIC del Ayunta
 
 ## Estado
 
-**v1.2 — Correcciones de María (IAM) + diagramas ampliados** (pendiente de validación final). Ver `informe-correcciones-v1.1.html`.
+**v1.4 — Revisión jurídica** (2026-10-01). Ver `tema-5-changelog.md`.
 
-> Notas: (1) El PDF aportado por el cliente procede del **INSST (ámbito estatal)** y omitía tres epígrafes del enunciado oficial (adquisición/pérdida, jornada/permisos/vacaciones y negociación colectiva), que se han **completado desde el texto oficial del TREBEP (BOE)**. (2) La sección de **incompatibilidades** (Ley 53/1984) se consolida como contenido firme del tema (§13). (3) Se añade el **Acuerdo-Convenio del Ayuntamiento de Madrid** (§9.5) como normativa directamente aplicable al IAM; sus cifras son **volátiles** — reverificar antes de cada convocatoria.
+> Notas: (1) Todos los epígrafes del enunciado oficial se desarrollan desde el **texto oficial del TREBEP (BOE, versión consolidada)**. (2) La sección de **incompatibilidades** (Ley 53/1984) forma parte del tema (§13). (3) Se incluye el **Acuerdo-Convenio del Ayuntamiento de Madrid** (§9.5) como normativa directamente aplicable al IAM; sus cifras dependen del Acuerdo-Convenio vigente — reverificar antes de cada convocatoria.
 
 ## Cómo regenerar el `index.html`
 

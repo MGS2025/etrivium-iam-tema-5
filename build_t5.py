@@ -24,11 +24,10 @@ def inline(t):
     return t
 
 CALLOUTS = {
-    "DATO CLAVE EXAMEN": ("callout-dato", "Dato clave examen"),
-    "CITA CONSTITUCIONAL": ("callout-cita", "Cita constitucional"),
+    "DATO CLAVE": ("callout-dato", "Dato clave"),
     "CITA NORMATIVA": ("callout-cita", "Cita normativa"),
-    "EJEMPLO AYTO MADRID": ("callout-ayto", "Ejemplo Ayto Madrid"),
-    "REFERENCIA CRUZADA": ("callout-ref", "Referencia cruzada"),
+    "EJEMPLO DE APLICACIÓN EN EL AYTO": ("callout-ayto", "Ejemplo de aplicación en el Ayto"),
+    "RELACIÓN CON OTROS TEMAS": ("callout-ref", "Relación con otros temas"),
 }
 
 def md_to_html(md, skip_h1=True, drop_header_blockquote=True):
@@ -376,7 +375,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tema 5 — El personal al servicio de la AP (TREBEP) | ETRIVIUM IAM</title>
+<title>Tema 5 — El personal al servicio de la Administración Pública (TREBEP) | ETRIVIUM IAM</title>
 <style>
 {css}
 </style>
