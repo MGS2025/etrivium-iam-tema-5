@@ -35,9 +35,9 @@ El Tema 5 trabaja con un **corpus normativo cerrado**: el articulado del **texto
 
 ### Esquema de referencia para el contenido
 
-- **Articulado TREBEP**: `[TREBEP, art. X]` o `[TREBEP, art. X.Y]` — p. ej. `[TREBEP, art. 89]`
-- **Ley de incompatibilidades**: `[L53/1984, art. X]`
-- **Constitución**: `[CE, art. 103.3]`
+- **Articulado TREBEP**: `(art. X TREBEP)` o `(art. X.Y TREBEP)` — p. ej. `(art. 89 TREBEP)`
+- **Ley de incompatibilidades**: `(art. X Ley 53/1984)`
+- **Constitución**: `(art. 103.3 CE)`
 
 ---
 
@@ -51,7 +51,7 @@ El Tema 5 trabaja con un **corpus normativo cerrado**: el articulado del **texto
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado va acompañada de `[TREBEP, art. X]`.
+1. Toda afirmación que reproduzca el articulado va acompañada de `(art. X TREBEP)`.
 2. Los datos memorísticos (plazos, mayorías, órganos competentes, cuantías de prescripción) se marcan con la caja **Dato clave**.
 3. Las reproducciones literales o paráfrasis cercanas del articulado se marcan con la caja **Cita normativa**.
 4. La aplicación al personal del Ayuntamiento de Madrid (IAM) se marca con la caja **Ejemplo de aplicación en el Ayto**.

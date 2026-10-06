@@ -22,15 +22,15 @@ Este tema incluye cuatro tipos de **cajas callout** para facilitar el estudio:
 
 > **[RELACIÓN CON OTROS TEMAS]** Enlace conceptual a otros temas del temario o a otros bloques del propio Tema 5.
 
-Las citas al articulado se expresan como `[TREBEP, art. X]`. El registro completo de fuentes está en `tema-5-fuentes.md`.
+Las citas al articulado se expresan como `(art. X TREBEP)`. El registro completo de fuentes está en `tema-5-fuentes.md`.
 
 ---
 
 ## 1. El TREBEP: objeto, ámbito de aplicación y estructura
 
-El **Estatuto Básico del Empleado Público (EBEP)** se aprobó por la Ley 7/2007 y hoy se contiene en su **texto refundido (TREBEP)**, aprobado por el **Real Decreto Legislativo 5/2015, de 30 de octubre** [TREBEP].
+El **Estatuto Básico del Empleado Público (EBEP)** se aprobó por la Ley 7/2007 y hoy se contiene en su **texto refundido (TREBEP)**, aprobado por el **Real Decreto Legislativo 5/2015, de 30 de octubre** (TREBEP).
 
-> **[CITA NORMATIVA]** El TREBEP *"tiene por objeto establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación"* y *"determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas"* [TREBEP, art. 1].
+> **[CITA NORMATIVA]** El TREBEP *"tiene por objeto establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación"* y *"determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas"* (art. 1 TREBEP).
 
 **Fundamentos de actuación** (art. 1.3 TREBEP): servicio a los ciudadanos y a los intereses generales; igualdad, mérito y capacidad en el acceso y en la promoción profesional; sometimiento pleno a la ley y al Derecho; igualdad de trato entre mujeres y hombres; objetividad, profesionalidad e imparcialidad en el servicio garantizadas con la inamovilidad en la condición de funcionario de carrera; eficacia en la planificación y gestión de los recursos humanos; desarrollo y cualificación profesional permanente de los empleados públicos; transparencia; evaluación y responsabilidad en la gestión; jerarquía en la atribución, ordenación y desempeño de las funciones y tareas; negociación colectiva y participación, a través de los representantes, en la determinación de las condiciones de empleo; y cooperación entre las Administraciones Públicas en la regulación y gestión del empleo público.
 
@@ -42,15 +42,15 @@ El **Estatuto Básico del Empleado Público (EBEP)** se aprobó por la Ley 7/200
 - d) Los **organismos públicos**, agencias y demás entidades de derecho público con personalidad jurídica propia, vinculadas o dependientes de cualquiera de las AAPP.
 - e) Las **Universidades Públicas**.
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** El **Ayuntamiento de Madrid** es una **entidad local** [art. 2.1.c)]. Conforme al artículo 3.1 TREBEP, el personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto, y por la legislación de las comunidades autónomas, con respeto a la autonomía local. Un Técnico Auxiliar TIC del IAM es, por tanto, **empleado público** sujeto a este Estatuto. [Relación con otros temas: Tema 2 — Administración Local]
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** El **Ayuntamiento de Madrid** es una **entidad local** (art. 2.1.c)). Conforme al artículo 3.1 TREBEP, el personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto, y por la legislación de las comunidades autónomas, con respeto a la autonomía local. Un Técnico Auxiliar TIC del IAM es, por tanto, **empleado público** sujeto a este Estatuto. [Relación con otros temas: Tema 2 — Administración Local]
 
-> **[DATO CLAVE]** El EBEP vigente es el **TREBEP, aprobado por el RDL 5/2015, de 30 de octubre**. Establece las **bases** del régimen estatutario de los funcionarios; en su desarrollo, las Cortes Generales y las asambleas legislativas de las comunidades autónomas aprueban las leyes de Función Pública. [TREBEP, arts. 1 y 6]
+> **[DATO CLAVE]** El EBEP vigente es el **TREBEP, aprobado por el RDL 5/2015, de 30 de octubre**. Establece las **bases** del régimen estatutario de los funcionarios; en su desarrollo, las Cortes Generales y las asambleas legislativas de las comunidades autónomas aprueban las leyes de Función Pública. (arts. 1 y 6 TREBEP)
 
 ---
 
 ## 2. Clases de personal al servicio de las Administraciones Públicas
 
-> **[CITA NORMATIVA]** *"Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales"* [TREBEP, art. 8.1].
+> **[CITA NORMATIVA]** *"Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales"* (art. 8.1 TREBEP).
 
 Conforme al artículo 8.2 TREBEP, los empleados públicos se clasifican en:
 
@@ -58,7 +58,7 @@ Conforme al artículo 8.2 TREBEP, los empleados públicos se clasifican en:
 
 Quienes, en virtud de **nombramiento legal**, están vinculados a una Administración Pública por una **relación estatutaria** regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de **carácter permanente**.
 
-> **[DATO CLAVE]** El **ejercicio de funciones que impliquen la participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales** corresponde **exclusivamente a los funcionarios públicos** [TREBEP, art. 9.2].
+> **[DATO CLAVE]** El **ejercicio de funciones que impliquen la participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales** corresponde **exclusivamente a los funcionarios públicos** (art. 9.2 TREBEP).
 
 ### 2.2 Funcionarios interinos (art. 10)
 
@@ -79,7 +79,7 @@ El que, en virtud de **contrato de trabajo** formalizado por escrito, presta ser
 
 ### 2.4 Personal eventual (art. 12)
 
-> **[CITA NORMATIVA]** Es el que, en virtud de nombramiento y con **carácter no permanente**, solo realiza funciones expresamente calificadas como de **confianza o asesoramiento especial** [TREBEP, art. 12.1].
+> **[CITA NORMATIVA]** Es el que, en virtud de nombramiento y con **carácter no permanente**, solo realiza funciones expresamente calificadas como de **confianza o asesoramiento especial** (art. 12.1 TREBEP).
 
 - Su **nombramiento y cese son libres**. El cese tiene lugar, en todo caso, cuando cese la autoridad a la que sirve.
 - La condición de personal eventual **no constituye mérito** para el acceso a la función pública ni para la promoción interna (art. 12.4).
@@ -90,7 +90,7 @@ Desarrolla funciones directivas profesionales, definidas como tales en las norma
 
 > **[RELACIÓN CON OTROS TEMAS]** El **coordinador del distrito** del Ayuntamiento de Madrid, con rango de director general, es un ejemplo de figura directiva del nivel local (Tema 4).
 
-> **[DATO CLAVE]** Cuatro clases del art. 8 + el directivo del art. 13: **funcionario de carrera, funcionario interino, personal laboral y personal eventual** (el directivo se regula aparte, en el capítulo II del título II). **Plazos del interino**: vacante 3 años · exceso de tareas 9 meses/18. [TREBEP, arts. 8-13]
+> **[DATO CLAVE]** Cuatro clases del art. 8 + el directivo del art. 13: **funcionario de carrera, funcionario interino, personal laboral y personal eventual** (el directivo se regula aparte, en el capítulo II del título II). **Plazos del interino**: vacante 3 años · exceso de tareas 9 meses/18. (arts. 8-13 TREBEP)
 
 ---
 
@@ -100,7 +100,7 @@ Desarrolla funciones directivas profesionales, definidas como tales en las norma
 
 ### 3.1 Principios y requisitos de acceso (arts. 55-56)
 
-> **[CITA NORMATIVA]** Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de **igualdad, mérito y capacidad** [TREBEP, art. 55.1; CE, arts. 23.2 y 103.3].
+> **[CITA NORMATIVA]** Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de **igualdad, mérito y capacidad** (art. 55.1 TREBEP; arts. 23.2 y 103.3 CE).
 
 Principios rectores de los procesos selectivos (art. 55.2): publicidad de las convocatorias, transparencia, imparcialidad y profesionalidad de los miembros de los órganos de selección, independencia y discrecionalidad técnica, adecuación entre pruebas y funciones, y agilidad.
 
@@ -119,7 +119,7 @@ La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo
 3. **Acto de acatamiento** de la Constitución y, en su caso, del Estatuto de Autonomía y del resto del ordenamiento jurídico.
 4. **Toma de posesión** dentro del plazo establecido.
 
-> **[DATO CLAVE]** La condición de funcionario de carrera se adquiere por el **cumplimiento sucesivo** de los cuatro requisitos del art. 62: superación del proceso → nombramiento → acatamiento de la Constitución → toma de posesión. [TREBEP, art. 62.1]
+> **[DATO CLAVE]** La condición de funcionario de carrera se adquiere por el **cumplimiento sucesivo** de los cuatro requisitos del art. 62: superación del proceso → nombramiento → acatamiento de la Constitución → toma de posesión. (art. 62.1 TREBEP)
 
 ### 3.3 Pérdida de la condición de funcionario (arts. 63-68)
 
@@ -133,9 +133,9 @@ Son causas de **pérdida** (art. 63):
 
 **Jubilación (art. 67)** puede ser: **voluntaria**, a solicitud del funcionario; **forzosa**, al cumplir la edad legalmente establecida; o por la **declaración de incapacidad permanente** para el ejercicio de las funciones propias de su cuerpo o escala, o por el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con dichas funciones. La jubilación forzosa se declarará de oficio al cumplir el funcionario los **sesenta y cinco años**; en los términos de las leyes de Función Pública, se podrá solicitar la prolongación de la permanencia en el servicio activo como máximo hasta los **setenta años** (art. 67.3). Para el personal funcionario incluido en el Régimen General de la Seguridad Social, la edad de jubilación forzosa será la que prevean las normas de dicho régimen para el acceso a la pensión de jubilación contributiva sin coeficiente reductor por razón de la edad (art. 67.4).
 
-> **[CITA NORMATIVA]** **Rehabilitación (art. 68)**: en caso de extinción de la relación de servicios como consecuencia de **pérdida de la nacionalidad** o **jubilación por incapacidad permanente**, el interesado, una vez desaparecida la causa objetiva que la motivó, podrá solicitar la rehabilitación de su condición de funcionario, *"que le será concedida"*. Los órganos de gobierno podrán conceder, **con carácter excepcional**, la rehabilitación de quien hubiera perdido la condición de funcionario por haber sido condenado a la **pena de inhabilitación**, atendiendo a las circunstancias y entidad del delito cometido; si no se resuelve de forma expresa en plazo, la solicitud se entiende desestimada [TREBEP, art. 68].
+> **[CITA NORMATIVA]** **Rehabilitación (art. 68)**: en caso de extinción de la relación de servicios como consecuencia de **pérdida de la nacionalidad** o **jubilación por incapacidad permanente**, el interesado, una vez desaparecida la causa objetiva que la motivó, podrá solicitar la rehabilitación de su condición de funcionario, *"que le será concedida"*. Los órganos de gobierno podrán conceder, **con carácter excepcional**, la rehabilitación de quien hubiera perdido la condición de funcionario por haber sido condenado a la **pena de inhabilitación**, atendiendo a las circunstancias y entidad del delito cometido; si no se resuelve de forma expresa en plazo, la solicitud se entiende desestimada (art. 68 TREBEP).
 
-> **[DATO CLAVE]** La **renuncia** **no inhabilita** para ingresar de nuevo en la Administración Pública (art. 64.3). La **separación del servicio** firme es causa de pérdida de la condición de funcionario (art. 63.d) y, entre los requisitos de acceso, se exige no haber sido separado mediante expediente disciplinario (art. 56.1.d). La rehabilitación del art. 68 se prevé para la pérdida de la nacionalidad, la jubilación por incapacidad permanente y la condena a pena de inhabilitación. La **jubilación forzosa** se declara de oficio a los **65 años**, con prolongación como máximo hasta los **70** (art. 67.3). [TREBEP, arts. 56, 63, 64, 67 y 68]
+> **[DATO CLAVE]** La **renuncia** **no inhabilita** para ingresar de nuevo en la Administración Pública (art. 64.3). La **separación del servicio** firme es causa de pérdida de la condición de funcionario (art. 63.d) y, entre los requisitos de acceso, se exige no haber sido separado mediante expediente disciplinario (art. 56.1.d). La rehabilitación del art. 68 se prevé para la pérdida de la nacionalidad, la jubilación por incapacidad permanente y la condena a pena de inhabilitación. La **jubilación forzosa** se declara de oficio a los **65 años**, con prolongación como máximo hasta los **70** (art. 67.3). (arts. 56, 63, 64, 67 y 68 TREBEP)
 
 ---
 
@@ -157,7 +157,7 @@ Quienes prestan servicios en su condición de funcionarios cualquiera que sea la
 
 Se declaran (art. 87.1), entre otros supuestos, cuando el funcionario es designado **miembro del Gobierno** o de los órganos de gobierno de las comunidades autónomas, **alto cargo**, accede a la condición de **Diputado o Senador**, es designado miembro del CGPJ o de órganos constitucionales, es designado **personal eventual** y no opta por permanecer en servicio activo, o es activado como **reservista voluntario** para prestar servicios en las Fuerzas Armadas.
 
-> **[DATO CLAVE]** En **servicios especiales** el funcionario percibe las retribuciones del **puesto o cargo** que desempeña y no las que le correspondan como funcionario de carrera, sin perjuicio del derecho a percibir los **trienios** que tenga reconocidos; el tiempo se le **computa** a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social. [TREBEP, art. 87.2]
+> **[DATO CLAVE]** En **servicios especiales** el funcionario percibe las retribuciones del **puesto o cargo** que desempeña y no las que le correspondan como funcionario de carrera, sin perjuicio del derecho a percibir los **trienios** que tenga reconocidos; el tiempo se le **computa** a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social. (art. 87.2 TREBEP)
 
 ### 4.3 Servicio en otras Administraciones Públicas (art. 88)
 
@@ -175,11 +175,11 @@ Modalidades (art. 89.1):
 | **Por razón de violencia de género o de violencia sexual** | Sin tiempo mínimo de servicios previos ni plazo de permanencia | 2 primeros meses, retribuciones íntegras | Reserva de puesto **6 meses** (prorrogable por periodos de tres meses, con un máximo de 18, cuando las actuaciones judiciales lo exijan); computa a antigüedad, carrera y SS |
 | **Por razón de violencia terrorista** | Previo reconocimiento del Ministerio del Interior o sentencia judicial firme | En las mismas condiciones que la anterior | — |
 
-> **[CITA NORMATIVA]** La excedencia voluntaria por interés particular **no podrá declararse** cuando al funcionario se le instruya **expediente disciplinario**. Procederá declararla **de oficio** cuando, finalizada la causa que determinó el pase a una situación distinta a la de servicio activo, se incumpla la obligación de solicitar el reingreso al servicio activo en el plazo que se determine reglamentariamente [TREBEP, art. 89.2].
+> **[CITA NORMATIVA]** La excedencia voluntaria por interés particular **no podrá declararse** cuando al funcionario se le instruya **expediente disciplinario**. Procederá declararla **de oficio** cuando, finalizada la causa que determinó el pase a una situación distinta a la de servicio activo, se incumpla la obligación de solicitar el reingreso al servicio activo en el plazo que se determine reglamentariamente (art. 89.2 TREBEP).
 
 ### 4.5 Suspensión de funciones (art. 90)
 
-> **[DATO CLAVE]** La suspensión priva del ejercicio de funciones y de todos los derechos inherentes a la condición. La suspensión **determina la pérdida del puesto** cuando exceda de **6 meses** (art. 90.1). La **suspensión firme** se impone en virtud de sentencia dictada en causa criminal o de sanción disciplinaria y, por sanción disciplinaria, **no podrá exceder de 6 años** (art. 90.2). [TREBEP, art. 90]
+> **[DATO CLAVE]** La suspensión priva del ejercicio de funciones y de todos los derechos inherentes a la condición. La suspensión **determina la pérdida del puesto** cuando exceda de **6 meses** (art. 90.1). La **suspensión firme** se impone en virtud de sentencia dictada en causa criminal o de sanción disciplinaria y, por sanción disciplinaria, **no podrá exceder de 6 años** (art. 90.2). (art. 90 TREBEP)
 
 Los plazos, procedimientos y condiciones para solicitar el **reingreso al servicio activo** se regularán reglamentariamente, según las situaciones administrativas de procedencia, con respeto al derecho a la reserva del puesto de trabajo en los casos en que proceda (art. 91).
 
@@ -220,13 +220,13 @@ Los empleados públicos tienen, entre otros, derecho:
 - d) Al planteamiento de **conflictos colectivos**.
 - e) Al de **reunión**, en los términos establecidos en el artículo 46.
 
-> **[DATO CLAVE]** No confundir: el art. 14 recoge derechos **individuales** (inamovilidad, carrera, retribuciones, formación, intimidad…); el art. 15 recoge derechos individuales **de ejercicio colectivo** (libertad sindical, negociación colectiva, **huelga**, conflicto colectivo y reunión). [TREBEP, arts. 14-15]
+> **[DATO CLAVE]** No confundir: el art. 14 recoge derechos **individuales** (inamovilidad, carrera, retribuciones, formación, intimidad…); el art. 15 recoge derechos individuales **de ejercicio colectivo** (libertad sindical, negociación colectiva, **huelga**, conflicto colectivo y reunión). (arts. 14-15 TREBEP)
 
 ---
 
 ## 6. Carrera profesional y promoción interna
 
-> **[CITA NORMATIVA]** La carrera profesional es *"el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad"* [TREBEP, art. 16.2].
+> **[CITA NORMATIVA]** La carrera profesional es *"el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad"* (art. 16.2 TREBEP).
 
 Modalidades (art. 16.3):
 
@@ -245,13 +245,13 @@ El **personal laboral** tiene derecho a la **promoción profesional**, que se ha
 
 ## 7. La evaluación del desempeño (art. 20)
 
-> **[CITA NORMATIVA]** La evaluación del desempeño es *"el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados"* [TREBEP, art. 20.1].
+> **[CITA NORMATIVA]** La evaluación del desempeño es *"el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados"* (art. 20.1 TREBEP).
 
 Los sistemas de evaluación se adecuarán, en todo caso, a criterios de **transparencia, objetividad, imparcialidad y no discriminación** y se aplicarán sin menoscabo de los derechos de los empleados públicos (art. 20.2).
 
 Las AAPP determinarán los **efectos** de la evaluación en la **carrera profesional horizontal**, la **formación**, la **provisión de puestos de trabajo** y la percepción de las **retribuciones complementarias** previstas en el artículo 24 (art. 20.3).
 
-> **[DATO CLAVE]** Las AAPP determinan los efectos de la evaluación del desempeño en cuatro elementos: **carrera horizontal, formación, provisión de puestos y retribuciones complementarias**. La continuidad en un puesto de trabajo obtenido por concurso **quedará vinculada** a la evaluación del desempeño, con audiencia al interesado y por resolución motivada. [TREBEP, art. 20.3 y 20.4]
+> **[DATO CLAVE]** Las AAPP determinan los efectos de la evaluación del desempeño en cuatro elementos: **carrera horizontal, formación, provisión de puestos y retribuciones complementarias**. La continuidad en un puesto de trabajo obtenido por concurso **quedará vinculada** a la evaluación del desempeño, con audiencia al interesado y por resolución motivada. (art. 20.3 y 20.4 TREBEP)
 
 ---
 
@@ -272,7 +272,7 @@ Su cuantía y estructura se establecen por las correspondientes leyes de cada Ad
 
 Otros conceptos: retribuciones de los **funcionarios interinos** (art. 25), de los **funcionarios en prácticas** (art. 26), del **personal laboral** (art. 27, según legislación laboral y convenio), **indemnizaciones por razón del servicio** (art. 28) y **retribuciones diferidas** (planes de pensiones, art. 29).
 
-> **[DATO CLAVE]** Las **básicas** (sueldo + trienios) se fijan en la **Ley de Presupuestos Generales del Estado**; las **complementarias** se establecen por las leyes de cada Administración Pública y retribuyen las características de los puestos, la carrera profesional o el desempeño, rendimiento o resultados. Las **pagas extraordinarias** son **dos al año**, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las complementarias, salvo las de los apartados c) y d) del artículo 24. [TREBEP, arts. 22-24]
+> **[DATO CLAVE]** Las **básicas** (sueldo + trienios) se fijan en la **Ley de Presupuestos Generales del Estado**; las **complementarias** se establecen por las leyes de cada Administración Pública y retribuyen las características de los puestos, la carrera profesional o el desempeño, rendimiento o resultados. Las **pagas extraordinarias** son **dos al año**, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las complementarias, salvo las de los apartados c) y d) del artículo 24. (arts. 22-24 TREBEP)
 
 ---
 
@@ -300,7 +300,7 @@ Conforme al artículo 48, los funcionarios tendrán, entre otros, los siguientes
 | **Asuntos particulares** (art. 48.k) | — | **6 días** al año |
 | **Matrimonio** o registro o constitución formalizada por documento público de pareja de hecho (art. 48.l) | — | **15 días** |
 
-> **[DATO CLAVE]** Art. 48.a): por **fallecimiento**, familiar de **1.er grado → 3 días hábiles** (misma localidad) / **5** (distinta); familiar de **2.º grado → 2 días hábiles** / **4**. Por **accidente o enfermedad graves, hospitalización o intervención quirúrgica** sin hospitalización con reposo domiciliario: **5 días hábiles** (1.er grado) y **4 días hábiles** (2.º grado), sin distinción de localidad. [TREBEP, art. 48.a)]
+> **[DATO CLAVE]** Art. 48.a): por **fallecimiento**, familiar de **1.er grado → 3 días hábiles** (misma localidad) / **5** (distinta); familiar de **2.º grado → 2 días hábiles** / **4**. Por **accidente o enfermedad graves, hospitalización o intervención quirúrgica** sin hospitalización con reposo domiciliario: **5 días hábiles** (1.er grado) y **4 días hábiles** (2.º grado), sin distinción de localidad. (art. 48.a) TREBEP)
 
 ### 9.3 Permisos por conciliación, corresponsabilidad y violencia de género (art. 49)
 
@@ -314,7 +314,7 @@ Conforme al artículo 48, los funcionarios tendrán, entre otros, los siguientes
 
 ### 9.4 Vacaciones (art. 50)
 
-> **[DATO CLAVE]** Las vacaciones retribuidas son de **22 días hábiles** durante cada año natural, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor. A estos efectos, **no se consideran días hábiles los sábados**, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales. El periodo de vacaciones no puede ser sustituido por una cuantía económica, salvo en los casos de conclusión de la relación de servicios por causas ajenas a la voluntad del funcionario. [TREBEP, art. 50]
+> **[DATO CLAVE]** Las vacaciones retribuidas son de **22 días hábiles** durante cada año natural, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor. A estos efectos, **no se consideran días hábiles los sábados**, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales. El periodo de vacaciones no puede ser sustituido por una cuantía económica, salvo en los casos de conclusión de la relación de servicios por causas ajenas a la voluntad del funcionario. (art. 50 TREBEP)
 
 ### 9.5 El Acuerdo-Convenio del Ayuntamiento de Madrid (aplicable al IAM)
 
@@ -334,7 +334,7 @@ Conforme al artículo 48, los funcionarios tendrán, entre otros, los siguientes
 - **+2 días** desde el día siguiente al del cumplimiento del **sexto trienio**.
 - **+1 día adicional** por cada **trienio** cumplido **a partir del octavo**.
 
-> **[DATO CLAVE]** Para el IAM: vacaciones **22 días hábiles** + escala de antigüedad (15/20/25/30 o más años → +1/+2/+3/+4 días hábiles) y **6 días** de asuntos particulares (+2 desde el 6.º trienio, +1 por trienio desde el 8.º). [TREBEP, arts. 48.k y 50; Acuerdo-Convenio Ayto. Madrid, arts. 14 y 15]
+> **[DATO CLAVE]** Para el IAM: vacaciones **22 días hábiles** + escala de antigüedad (15/20/25/30 o más años → +1/+2/+3/+4 días hábiles) y **6 días** de asuntos particulares (+2 desde el 6.º trienio, +1 por trienio desde el 8.º). (arts. 48.k y 50 TREBEP; arts. 14 y 15 del Acuerdo-Convenio del Ayuntamiento de Madrid)
 
 > **[RELACIÓN CON OTROS TEMAS]** La negociación colectiva, la representación del personal municipal y el propio **Acuerdo-Convenio** se estudian en el **Tema 9**. Los datos anteriores dependen del Acuerdo-Convenio vigente en cada momento.
 
@@ -361,7 +361,7 @@ En el seno de las Mesas de Negociación, los representantes de las AAPP y de las
 
 ### 10.3 Órganos de representación (arts. 39-44)
 
-> **[DATO CLAVE]** Los órganos específicos de representación de los funcionarios son los **Delegados de Personal** (unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50) y las **Juntas de Personal** (unidades electorales con un censo mínimo de 50 funcionarios) [TREBEP, art. 39]. Sus miembros gozan de **garantías** (art. 41), como el crédito de horas mensuales y la no discriminación en su formación ni en su promoción económica o profesional por razón del desempeño de su representación.
+> **[DATO CLAVE]** Los órganos específicos de representación de los funcionarios son los **Delegados de Personal** (unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50) y las **Juntas de Personal** (unidades electorales con un censo mínimo de 50 funcionarios) (art. 39 TREBEP). Sus miembros gozan de **garantías** (art. 41), como el crédito de horas mensuales y la no discriminación en su formación ni en su promoción económica o profesional por razón del desempeño de su representación.
 
 ### 10.4 Derecho de reunión (art. 46)
 
@@ -373,7 +373,7 @@ Están legitimados para convocar una reunión, además de las organizaciones sin
 
 ## 11. Deberes de los empleados públicos. Código de conducta
 
-> **[CITA NORMATIVA]** *"Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico"* [TREBEP, art. 52].
+> **[CITA NORMATIVA]** *"Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico"* (art. 52 TREBEP).
 
 Los principios que inspiran el **Código de Conducta** (art. 52): objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental, y respeto a la igualdad entre mujeres y hombres.
 
@@ -382,7 +382,7 @@ El Código de Conducta se concreta en:
 - **Principios éticos (art. 53)**: respeto a la Constitución y al resto del ordenamiento jurídico; actuación dirigida a la satisfacción de los intereses generales, fundamentada en consideraciones objetivas orientadas hacia la imparcialidad y el interés común; lealtad y buena fe; respeto de los derechos fundamentales y libertades públicas; **abstención** en los asuntos en que tengan un interés personal y en toda actividad privada o interés que pueda suponer un riesgo de conflicto de intereses; no aceptar ningún trato de favor o situación que implique privilegio o ventaja injustificada; secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente.
 - **Principios de conducta (art. 54)**: trato con atención y respeto a los ciudadanos, a los superiores y a los restantes empleados públicos; cumplimiento de la jornada y el horario; **obediencia** a las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes; información a los ciudadanos; administración de los recursos y bienes públicos con austeridad; rechazo de cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía; mantenimiento actualizado de la formación; observancia de las normas sobre seguridad y salud laboral.
 
-> **[DATO CLAVE]** Distinguir en el Código de Conducta: **principios éticos = art. 53** y **principios de conducta = art. 54** (los deberes generales están en el art. 52). El deber de **obediencia** cede cuando la orden suponga **infracción manifiesta del ordenamiento jurídico**. [TREBEP, arts. 52-54]
+> **[DATO CLAVE]** Distinguir en el Código de Conducta: **principios éticos = art. 53** y **principios de conducta = art. 54** (los deberes generales están en el art. 52). El deber de **obediencia** cede cuando la orden suponga **infracción manifiesta del ordenamiento jurídico**. (arts. 52-54 TREBEP)
 
 ---
 
@@ -398,7 +398,7 @@ La potestad disciplinaria se ejerce conforme a los principios de **legalidad y t
 
 Las faltas se clasifican en **muy graves, graves y leves** (art. 95.1). Son **muy graves** (art. 95.2), entre otras: el incumplimiento del deber de respeto a la Constitución y a los Estatutos de Autonomía; **toda actuación que suponga discriminación** y el acoso por las causas que enumera la ley, así como el acoso moral y sexual; el **abandono del servicio**; la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave; la publicación o utilización indebida de la documentación o información a que se tenga acceso por razón del cargo; la **desobediencia abierta** a las órdenes o instrucciones de un superior, salvo que constituyan infracción manifiesta del ordenamiento; el incumplimiento de las normas sobre incompatibilidades cuando dé lugar a una situación de incompatibilidad; y el **acoso laboral**. También lo son las que tipifique como tales una ley de las Cortes Generales o de la asamblea legislativa autonómica o, para el personal laboral, los convenios colectivos (art. 95.2.p).
 
-> **[CITA NORMATIVA]** Las faltas **graves** serán establecidas por ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral, atendiendo al grado en que se haya vulnerado la legalidad, a la gravedad de los daños causados y al descrédito para la imagen pública de la Administración. Las leyes de Función Pública determinarán el régimen aplicable a las faltas **leves**, atendiendo a las mismas circunstancias [TREBEP, art. 95.3 y 95.4].
+> **[CITA NORMATIVA]** Las faltas **graves** serán establecidas por ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral, atendiendo al grado en que se haya vulnerado la legalidad, a la gravedad de los daños causados y al descrédito para la imagen pública de la Administración. Las leyes de Función Pública determinarán el régimen aplicable a las faltas **leves**, atendiendo a las mismas circunstancias (art. 95.3 y 95.4 TREBEP).
 
 ### 12.3 Sanciones (art. 96)
 
@@ -416,7 +416,7 @@ El TREBEP solo reserva **expresamente** la **separación del servicio** y el **d
 
 ### 12.4 Prescripción (art. 97)
 
-> **[DATO CLAVE]** **Prescripción de las faltas**: muy graves **3 años**, graves **2 años**, leves **6 meses**. **Prescripción de las sanciones**: por faltas muy graves **3 años**, graves **2 años**, leves **1 año**. El plazo de las faltas se cuenta desde que se hubieran cometido, y desde el cese de su comisión cuando se trate de faltas continuadas; el de las sanciones, desde la firmeza de la resolución sancionadora. [TREBEP, art. 97]
+> **[DATO CLAVE]** **Prescripción de las faltas**: muy graves **3 años**, graves **2 años**, leves **6 meses**. **Prescripción de las sanciones**: por faltas muy graves **3 años**, graves **2 años**, leves **1 año**. El plazo de las faltas se cuenta desde que se hubieran cometido, y desde el cese de su comisión cuando se trate de faltas continuadas; el de las sanciones, desde la firmeza de la resolución sancionadora. (art. 97 TREBEP)
 
 No podrá imponerse sanción por faltas muy graves o graves sino mediante el **procedimiento** previamente establecido; las faltas leves se sancionan por procedimiento sumario con audiencia al interesado. En el procedimiento quedará establecida la debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos. Pueden adoptarse **medidas provisionales**; la suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado (art. 98).
 
@@ -428,7 +428,7 @@ No podrá imponerse sanción por faltas muy graves o graves sino mediante el **p
 
 La **Ley 53/1984, de 26 de diciembre**, de Incompatibilidades del personal al servicio de las Administraciones Públicas, parte, según su preámbulo, del principio de **dedicación del personal a un solo puesto de trabajo**. El personal comprendido en su ámbito no podrá compatibilizar sus actividades con el desempeño de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en la misma (art. 1.1): las funciones docente y sanitaria, los casos de los artículos 5 y 6, y los que, por razón de interés público, determine el Consejo de Ministros, mediante real decreto, o el órgano de gobierno de la comunidad autónoma (art. 3.1).
 
-> **[DATO CLAVE]** Para el ejercicio de la **segunda actividad** es **indispensable la previa y expresa autorización de compatibilidad**, que no supondrá modificación de la jornada de trabajo y horario de los dos puestos; la autorización se efectuará en todo caso en razón del **interés público** [L53/1984, art. 3.1]. El incumplimiento de las normas sobre incompatibilidades, cuando dé lugar a una situación de incompatibilidad, es **falta muy grave** [TREBEP, art. 95.2.n)].
+> **[DATO CLAVE]** Para el ejercicio de la **segunda actividad** es **indispensable la previa y expresa autorización de compatibilidad**, que no supondrá modificación de la jornada de trabajo y horario de los dos puestos; la autorización se efectuará en todo caso en razón del **interés público** (art. 3.1 Ley 53/1984). El incumplimiento de las normas sobre incompatibilidades, cuando dé lugar a una situación de incompatibilidad, es **falta muy grave** (art. 95.2.n) TREBEP).
 
 ---
 

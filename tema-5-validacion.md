@@ -19,7 +19,7 @@
 
 - [ ] La fuente nuclear es el **TREBEP (RDL 5/2015)** en su versión consolidada.
 - [ ] Todos los epígrafes del enunciado oficial se desarrollan desde el texto oficial del BOE.
-- [ ] Cada afirmación que reproduce el articulado está referenciada con `[TREBEP, art. X]`.
+- [ ] Cada afirmación que reproduce el articulado está referenciada con `(art. X TREBEP)`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del TREBEP, de la Ley 53/1984 o del Acuerdo-Convenio del Ayuntamiento de Madrid.
 
 ## 2. Estructura del contenido
@@ -33,21 +33,21 @@
 
 ## 3. Rigor jurídico (datos sensibles)
 
-- [ ] Funcionario interino: vacante **3 años**, programas temporales **3 años + 12 meses**, exceso de tareas **9 meses/18** [art. 10].
-- [ ] Adquisición de la condición: 4 requisitos sucesivos (proceso → nombramiento → acatamiento → toma de posesión) [art. 62].
-- [ ] Renuncia **no inhabilita** para el reingreso [art. 64.3]; separación del servicio firme = causa de pérdida [art. 63.d].
-- [ ] Jubilación forzosa **65 años**, prolongación como máximo hasta **70** [art. 67.3].
-- [ ] Excedencia voluntaria por interés particular: **5 años** previos, no devenga, no computa [art. 89.2].
-- [ ] Excedencia por cuidado de familiares: **3 años**, reserva **2 años**, computa [art. 89.4].
-- [ ] Suspensión: pierde puesto si **> 6 meses**; firme disciplinaria máx. **6 años** [art. 90].
+- [ ] Funcionario interino: vacante **3 años**, programas temporales **3 años + 12 meses**, exceso de tareas **9 meses/18** (art. 10).
+- [ ] Adquisición de la condición: 4 requisitos sucesivos (proceso → nombramiento → acatamiento → toma de posesión) (art. 62).
+- [ ] Renuncia **no inhabilita** para el reingreso (art. 64.3); separación del servicio firme = causa de pérdida (art. 63.d).
+- [ ] Jubilación forzosa **65 años**, prolongación como máximo hasta **70** (art. 67.3).
+- [ ] Excedencia voluntaria por interés particular: **5 años** previos, no devenga, no computa (art. 89.2).
+- [ ] Excedencia por cuidado de familiares: **3 años**, reserva **2 años**, computa (art. 89.4).
+- [ ] Suspensión: pierde puesto si **> 6 meses**; firme disciplinaria máx. **6 años** (art. 90).
 - [ ] Derechos individuales (art. 14) vs colectivos (art. 15) bien separados.
-- [ ] Carrera: horizontal/vertical + promoción interna vertical/horizontal; **2 años** de antigüedad [arts. 16, 18].
-- [ ] Retribuciones básicas = **sueldo + trienios** (PGE) [art. 23].
-- [ ] Vacaciones: **22 días hábiles**; sábados no hábiles [art. 50].
-- [ ] Permisos por nacimiento: **19 semanas** [art. 49, redacción del RDL 9/2025].
-- [ ] Juntas de Personal (**≥50**) vs Delegados (**6 a 49**) [art. 39].
+- [ ] Carrera: horizontal/vertical + promoción interna vertical/horizontal; **2 años** de antigüedad (arts. 16, 18).
+- [ ] Retribuciones básicas = **sueldo + trienios** (PGE) (art. 23).
+- [ ] Vacaciones: **22 días hábiles**; sábados no hábiles (art. 50).
+- [ ] Permisos por nacimiento: **19 semanas** (art. 49, redacción del RDL 9/2025).
+- [ ] Juntas de Personal (**≥50**) vs Delegados (**6 a 49**) (art. 39).
 - [ ] Código de conducta: principios éticos **art. 53** / de conducta **art. 54**.
-- [ ] Prescripción: faltas **3/2 años y 6 meses**; sanciones **3/2 años y 1 año** [art. 97].
+- [ ] Prescripción: faltas **3/2 años y 6 meses**; sanciones **3/2 años y 1 año** (art. 97).
 
 ## 4. Diagramas SVG
 
@@ -109,7 +109,7 @@
 ### Puntos a vigilar (datos volátiles)
 
 - Los **permisos y vacaciones** y los **órganos de representación** del personal municipal se regulan también en el **Acuerdo-Convenio del Ayuntamiento de Madrid** vigente; reverificar el Acuerdo-Convenio antes de cada convocatoria.
-- Las **faltas graves** se establecen por ley (o convenio, para el personal laboral) y las **leves** por las leyes de Función Pública [art. 95.3 y 95.4].
+- Las **faltas graves** se establecen por ley (o convenio, para el personal laboral) y las **leves** por las leyes de Función Pública (art. 95.3 y 95.4).
 
 ---
 
